@@ -1,13 +1,22 @@
 .father{
     display: grid;
     place-items: center;
-    height: 100vh; /* Gives the parent height so you can see it center vertically */
+    min-height: 100vh; /* Gives the parent height so you can see it center vertically */
+}
+
+.info{
+width: 60vw;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    
+
 }
 
 .scrollcont {
-    width: 60vw;                     
+    width: 60vw;
     overflow-x: auto;
-    overflow-y: hidden;
+    
     white-space: nowrap;
     padding: 2px; 
     
