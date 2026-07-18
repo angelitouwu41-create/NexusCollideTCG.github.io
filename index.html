@@ -7,46 +7,27 @@
     <script src="https://unpkg.com/htmx.org@1.9.12"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
 </head>
 <body>
 
 
     <div class="father">
 
-        <div class="info">
-            <h1>Info</h1>
-
-            <h2>Novedades</h2>
-                <div hx-get="novedades.html" hx-trigger="load" hx-target="#div-novedades">
-                    <div id="div-novedades">
-                    Cargando...
-                    </div>
-                    
-                </div>
-                
-            <h2>Banners</h2>
-
-                <div hx-get="banners.html" hx-trigger="load" hx-target="#div-banners">
-                    <div id="div-banners">
-                    Cargando...
-                    </div>
-                    
-                </div>
-                
-
-            <h2>Eventos</h2>
-
-
-
-        </div>
-
-        <h1>Cartas</h1>
         <div class="d-flex flex-column align-items-center mb-4">
-            <div>
-                Filtros
-            </div>
-            <select name="filtro" id="filtro" onchange="">
+            <!-- Buscador de Texto -->
+            <div class="fw-bold">Buscar Carta</div>
+            <input type="text" id="buscadorNombre" class="form-control w-auto mb-3" placeholder="Ej: cabrita...">
+
+            <!-- Filtro Desplegable -->
+            <div class="fw-bold">Categoría</div>
+            <select name="filtro" id="filtro" class="form-select w-auto mt-1">
                 <option value="todos">Todos</option>
+            </select>
+
+            <div class="fw-bold">Origen</div>
+            <select name="filtroOrigen" id="filtroOrigen" class="form-select w-auto mt-1">
+                <option value="todos">Todos los orígenes</option>
             </select>
         </div>
 
@@ -54,7 +35,7 @@
 
         <div class="d-flex flex-column align-items-center mb-4">
             <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseReinas" role="button" aria-expanded="true" aria-controls="collapseReinas">
-                Reinas
+                Personajes
             </a>
             <div class="collapse show scrollcont" id="collapseReinas">
             <ul class="hlist" id="lista-reinas">
@@ -67,7 +48,7 @@
         
         <div class="d-flex flex-column align-items-center mb-4">
             
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseGatadas" role="button" aria-expanded="true" aria-controls="collapseGatadas">Gatadas</a>
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseGatadas" role="button" aria-expanded="true" aria-controls="collapseGatadas">Habilidades</a>
             
             <div class="collapse show scrollcont" id="collapseGatadas">
             <ul class="hlist" id="lista-gatadas">
@@ -78,7 +59,7 @@
 
         
         <div class="d-flex flex-column align-items-center mb-4">
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEscenas" role="button" aria-expanded="true" aria-controls="collapseEscenas">Escenas</a>
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEscenas" role="button" aria-expanded="true" aria-controls="collapseEscenas">Campos</a>
             <div class="collapse show scrollcont" id="collapseEscenas">
             <ul class="hlist" id="lista-escenas">
 
@@ -89,10 +70,10 @@
         
         
         <div class="d-flex flex-column align-items-center mb-4">
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseArmas" role="button" aria-expanded="true" aria-controls="collapseArmas">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseArmas" role="button" aria-expanded="false" aria-controls="collapseArmas">
                 Armas
             </a>
-            <div class="collapse show scrollcont" id="collapseArmas">
+            <div class="collapse  scrollcont" id="collapseArmas">
                 <ul class="hlist" id="lista-armas"></ul>
             </div>
         </div>
@@ -100,36 +81,83 @@
         
 
         <div class="d-flex flex-column align-items-center mb-4">
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapsePoderes" role="button" aria-expanded="true" aria-controls="collapsePoderes">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapsePoderes" role="button" aria-expanded="false" aria-controls="collapsePoderes">
                 Poderes
             </a>
-            <div class="collapse show scrollcont" id="collapsePoderes">
+            <div class="collapse  scrollcont" id="collapsePoderes">
                 <ul class="hlist" id="lista-poderes"></ul>
             </div>
         </div>
 
         <div class="d-flex flex-column align-items-center mb-4">
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEvoluciones" role="button" aria-expanded="true" aria-controls="collapseEvoluciones">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEvoluciones" role="button" aria-expanded="false" aria-controls="collapseEvoluciones">
                 Evoluciones
             </a>
-            <div class="collapse show scrollcont" id="collapseEvoluciones">
+            <div class="collapse  scrollcont" id="collapseEvoluciones">
                 <ul class="hlist" id="lista-evoluciones"></ul>
             </div>
         </div>
 
-        <div class="d-flex flex-column align-items-center mb-4">
-            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseConmemorativas" role="button" aria-expanded="true" aria-controls="collapseConmemorativas">
-                Conmemorativas
-            </a>
-            <div class="collapse show scrollcont" id="collapseConmemorativas">
-                <ul class="hlist" id="lista-conmemorativas"></ul>
-            </div>
-        </div>
 
+    </div>
+
+    <div>
+
+        <!-- ==========================================
+             SECCIÓN DEL DECKBUILDER
+        =========================================== -->
+        <div class="container mt-5 mb-5 p-4" style="background-color: #1a1a1a; border-radius: 12px; border: 1px solid #444; color: white;">
+            
+            <h2 class="text-center fw-bold mb-4" style="color: #ff7be5;">Deck Builder</h2>
+
+            <div class="row g-3 text-center">
+                <!-- Reinas -->
+                <div class="col-md-4">
+                    <div class="p-3 rounded" style="background-color: #252525; border: 1px solid #555;">
+                        <h4 class="fw-bold">Reinas (<span id="cont-reinas">0</span>/5)</h4>
+                        <div id="reinas-builder" class="d-flex flex-wrap justify-content-center gap-2 mt-3 min-vh-25"></div>
+                    </div>
+                </div>
+                <!-- Gatadas -->
+                <div class="col-md-4">
+                    <div class="p-3 rounded" style="background-color: #252525; border: 1px solid #555;">
+                        <h4 class="fw-bold">Gatadas (<span id="cont-gatadas">0</span>/3)</h4>
+                        <div id="gatadas-builder" class="d-flex flex-wrap justify-content-center gap-2 mt-3 min-vh-25"></div>
+                    </div>
+                </div>
+                <!-- Escenas -->
+                <div class="col-md-4">
+                    <div class="p-3 rounded" style="background-color: #252525; border: 1px solid #555;">
+                        <h4 class="fw-bold">Campos (<span id="cont-escenas">0</span>/2)</h4>
+                        <div id="escenas-builder" class="d-flex flex-wrap justify-content-center gap-2 mt-3 min-vh-25"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botones de Acción -->
+            <div class="d-flex flex-wrap justify-content-center gap-3 mt-4">
+                <button onclick="descargarSoloImagenes()" class="btn btn-outline-light fw-bold">⬇ Descargar Imágenes</button>
+                <button onclick="mostrarCaptura()" class="btn btn-success fw-bold" style="background-color: #00ff9d; color: black; border: none;">📸 Captura Mazo</button>
+                <button onclick="crearDeckRandom()" class="btn fw-bold" style="background-color: #7bffcf; color: black;">🎲 Deck Random</button>
+                <button onclick="guardarDeck()" class="btn fw-bold" style="background-color: #ff7be5; color: black;">💾 Guardar Deck</button>
+            </div>
+
+            <!-- Lista de Decks Guardados -->
+            <div class="mt-4 p-3 rounded" style="background-color: #111; border: 1px solid #333;">
+                <h5 class="text-center fw-bold m-0">📂 Decks Guardados</h5>
+                <div id="listaDecks" class="mt-3"></div>
+            </div>
+
+        </div>
     </div>
 
     <script src="script.js?v=1.1"></script>
     <script src="filter.js?v=1.1"></script>
     <script src="event_filter.js?v=1.1"></script>
+    <script src="busqueda.js?v=1.1"></script>
+    <script src="deckbuilder.js"></script>
+
+    
+
 </body>
 </html>

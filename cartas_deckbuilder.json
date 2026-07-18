@@ -1,6 +1,14 @@
 {
   "reinas": [
     {
+      "nombre": "Lebron (ignorar, es para la demo)",
+      "imagenes": [
+        "imagenes/personajes/lebron.jpg"
+      ],
+      "tags": "lebron reina",
+      "origen": "nba"
+    },
+    {
       "nombre": "A quién le importa V",
       "imagenes": [
         "Cartas/Reinas/AquienV.jpg"
@@ -225,14 +233,15 @@
       "imagenes": [
         "Cartas/Reinas/DiscordBlu.jpg"
       ],
-      "tags": "reina discord"
+      "tags": "reina discord"      
     },
     {
       "nombre": "Búho Mojado",
       "imagenes": [
         "Cartas/Reinas/Buho.jpeg"
       ],
-      "tags": "reina mascota"
+      "tags": "reina mascota",
+      "origen" : "buho mojado"
     },
     {
       "nombre": "Burqa Girl",
