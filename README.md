@@ -1,2 +1,2 @@
-# dTCG-web.github.io
+# NexusCollideTCG.github.io
 Pagina Web
