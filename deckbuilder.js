@@ -2,13 +2,13 @@
    ESTADO GLOBAL DEL DECK
 ========================================== */
 const deck = {
-    reinas: [],
-    gatadas: [],
-    escenas: []
+    Personajes: [],
+    Habilidad: [],
+    Campos: []
 };
 
 // Variable global para almacenar todas las cartas del JSON (para el deck random y validaciones)
-let catalogoCartas = { reinas: [], gatadas: [], escenas: [] };
+let catalogoCartas = { Personajes: [], Habilidades: [], Campos: [] };
 
 // Cargar catálogo silenciosamente para que el builder sepa qué cartas existen
 fetch('cartas_deckbuilder.json?v=1.1')
@@ -20,10 +20,10 @@ fetch('cartas_deckbuilder.json?v=1.1')
 ========================================== */
 function agregarAlDeck(cartaObj, categoria) {
     // Validar si la categoría es válida para el deckbuilder (solo soporta estas 3 por ahora)
-    if (!['reinas', 'gatadas', 'escenas'].includes(categoria)) return;
+    if (!['Personajes', 'Habilidad', 'Campos'].includes(categoria)) return;
 
     // Límite por categoría
-    const limites = { reinas: 5, gatadas: 3, escenas: 2 };
+    const limites = { Personajes: 5, Habilidad: 3, Campos: 2 };
     
     // Evitar duplicados exactos
     const yaExiste = deck[categoria].some(c => c.nombre === cartaObj.nombre);
@@ -116,9 +116,9 @@ function guardarDeck() {
 
     const decks = obtenerDecksGuardados();
     decks[nombre] = {
-        reinas: deck.reinas,
-        gatadas: deck.gatadas,
-        escenas: deck.escenas
+        reinas: deck.Personajes,
+        gatadas: deck.Habilidad,
+        escenas: deck.Campos
     };
 
     localStorage.setItem('misDecks', JSON.stringify(decks));
