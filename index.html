@@ -8,51 +8,96 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div>
-        <div>
-            Filtros
+
+
+    <div class="father">
+
+        <div class="d-flex flex-column align-items-center mb-4">
+            <div>
+                Filtros
+            </div>
+            <select name="filtro" id="filtro" onchange="">
+                <option value="todos">Todos</option>
+            </select>
         </div>
-        <select name="filtro" id="filtro" onchange="">
-            <option value="todos">Todos</option>
-        </select>
-    </div>
 
 
 
-    <div>
-        <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseReinas" role="button" aria-expanded="false" aria-controls="collapseReinas">
-            Reinas
-        </a>
-        <div class="collapse" id="collapseReinas">
-        <ul id="lista-reinas">
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseReinas" role="button" aria-expanded="true" aria-controls="collapseReinas">
+                Reinas
+            </a>
+            <div class="collapse show scrollcont" id="collapseReinas">
+            <ul class="hlist" id="lista-reinas">
 
-        </ul>
+            </ul>
+            </div>
         </div>
-    </div>
 
 
-    
-    <div>
         
-        <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseGatadas" role="button" aria-expanded="false" aria-controls="collapseGatadas">Gatadas</a>
+        <div class="d-flex flex-column align-items-center mb-4">
+            
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseGatadas" role="button" aria-expanded="true" aria-controls="collapseGatadas">Gatadas</a>
+            
+            <div class="collapse show scrollcont" id="collapseGatadas">
+            <ul class="hlist" id="lista-gatadas">
+
+            </ul>
+            </div>
+        </div>
+
         
-        <div class="collapse" id="collapseGatadas">
-        <ul id="lista-gatadas">
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEscenas" role="button" aria-expanded="true" aria-controls="collapseEscenas">Escenas</a>
+            <div class="collapse show scrollcont" id="collapseEscenas">
+            <ul class="hlist" id="lista-escenas">
 
-        </ul>
+            </ul>
+            </div>
+        </div>  
+
+        
+        
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseArmas" role="button" aria-expanded="true" aria-controls="collapseArmas">
+                Armas
+            </a>
+            <div class="collapse show scrollcont" id="collapseArmas">
+                <ul class="hlist" id="lista-armas"></ul>
+            </div>
         </div>
+
+        
+
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapsePoderes" role="button" aria-expanded="true" aria-controls="collapsePoderes">
+                Poderes
+            </a>
+            <div class="collapse show scrollcont" id="collapsePoderes">
+                <ul class="hlist" id="lista-poderes"></ul>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseEvoluciones" role="button" aria-expanded="true" aria-controls="collapseEvoluciones">
+                Evoluciones
+            </a>
+            <div class="collapse show scrollcont" id="collapseEvoluciones">
+                <ul class="hlist" id="lista-evoluciones"></ul>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column align-items-center mb-4">
+            <a class="btn btn-primary mt-2" data-bs-toggle="collapse" href="#collapseConmemorativas" role="button" aria-expanded="true" aria-controls="collapseConmemorativas">
+                Conmemorativas
+            </a>
+            <div class="collapse show scrollcont" id="collapseConmemorativas">
+                <ul class="hlist" id="lista-conmemorativas"></ul>
+            </div>
+        </div>
+
     </div>
-
-    
-    <div>
-        <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseEscenas" role="button" aria-expanded="false" aria-controls="collapseEscenas">Escenas</a>
-        <div class="collapse" id="collapseEscenas">
-        <ul id="lista-escenas">
-
-        </ul>
-        </div>
-    </div>  
-
 
     <script src="script.js"></script>
     <script src="filter.js"></script>

@@ -1,60 +1,48 @@
 {
   "reinas": [
     {
-      "nombre": "Rina Embarazada",
+      "nombre": "A quién le importa V",
       "imagenes": [
-        "Cartas/Reinas/Rina Embarazada.jpeg"
+        "Cartas/Reinas/AquienV.jpg"
       ],
-      "tags": "reina midnight"
+      "tags": "reina vproduction"
     },
     {
-      "nombre": "Estigia Eucaronte",
+      "nombre": "Abejita Zombie Biz4rre",
       "imagenes": [
-        "Cartas/Reinas/Estigia Eucaronte.jpeg"
+        "Cartas/Reinas/NNBAbejita.jpg"
       ],
-      "tags": "reina dangan"
-    },
-    {
-      "nombre": "Vestido Vanth",
-      "imagenes": [
-        "Cartas/Reinas/Vestido Vanth.jpg"
-      ],
-      "tags": "reina vanth"
-    },
-    {
-      "nombre": "Nacho Bola Disco",
-      "imagenes": [
-        "Cartas/Reinas/MNacho.jpg"
-      ],
-      "tags": "reina ldr midnight"
-    },
-    {
-      "nombre": "Dawn Ultimate Pageant",
-      "imagenes": [
-        "Cartas/Reinas/Dawn Dangan.jpeg"
-      ],
-      "tags": "reina dangan promo"
-    },
-    {
-      "nombre": "Ronika Veri",
-      "imagenes": [
-        "Cartas/Reinas/Ronika Veri.jpeg"
-      ],
-      "tags": "reina ldr promo"
-    },
-    {
-      "nombre": "IAVED VANTH-TQMix",
-      "imagenes": [
-        "Cartas/Reinas/MixIaved.jpg"
-      ],
-      "tags": "reina tqmix vanth",
+      "tags": "reina biz4rre",
       "balance": "ajuste",
       "historial": [
         {
+          "tipo": "nerf",
+          "fecha": "19/05/2026",
+          "nota": "Se retira la activación de Virus Biz4rre para reducir la consistencia del efecto en cada ronda."
+        },
+        {
           "tipo": "ajuste",
-          "fecha": "08/05/2026",
-          "nota": "IAVED VANTH-TQMix ahora puede integrarse a estrategias Vanth o TQMix según la situación, permitiéndole una mayor flexibilidad dentro de ambos arquetipos."
+          "fecha": "24/05/2026",
+          "nota": "El efecto de Abejita Zombie Biz4rre de intercambiar estadísticas al caer resultaba demasiado genérico, por lo que ahora adoptará un rol más centrado en la identidad del arquetipo Biz4rre, activando Virus Biz4rre cada vez que el rival use una Gatada o un Arma."
         }
+      ]
+    },
+    {
+      "nombre": "Alejandro Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/DawnC.jpeg"
+      ],
+      "tags": "reina cartoon",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/04/2026",
+          "nota": "Peformance: 2>1\nActuación: 2>1"
+        }
+      ],
+      "notas": [
+        ""
       ]
     },
     {
@@ -63,6 +51,97 @@
         "Cartas/Reinas/Alerito Cuy.jpeg"
       ],
       "tags": "reina vanth midnight"
+    },
+    {
+      "nombre": "Alerito Machu Picchu Ultimate Pet",
+      "imagenes": [
+        "Cartas/Reinas/DanganAlerito.jpg"
+      ],
+      "tags": "reina dangan"
+    },
+    {
+      "nombre": "ALERITO Zorrita",
+      "imagenes": [
+        "Cartas/Reinas/WAlerito.jpg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Alessia Di Rossi",
+      "imagenes": [
+        "Cartas/Reinas/RossiAlessia.jpg"
+      ],
+      "tags": "reina dirossi hollers"
+    },
+    {
+      "nombre": "Alilita Tay Discord",
+      "imagenes": [
+        "Cartas/Reinas/DiscordAlila.jpg"
+      ],
+      "tags": "reina discord"
+    },
+    {
+      "nombre": "AMY._.XD TND",
+      "imagenes": [
+        "Cartas/Reinas/AMY.jpeg"
+      ],
+      "tags": "reina tnd promo"
+    },
+    {
+      "nombre": "Arpals Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGArtpals.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Astolfo BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Reinas/BAstolfo.jpg"
+      ],
+      "tags": "reina boylove"
+    },
+    {
+      "nombre": "Aveztruza",
+      "imagenes": [
+        "Cartas/Reinas/MascotaAveztruza.jpg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Axolotitos",
+      "imagenes": [
+        "Cartas/Reinas/Axo.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Azamara TND",
+      "imagenes": [
+        "Cartas/Reinas/Aza.jpg"
+      ],
+      "tags": "reina tnd"
+    },
+    {
+      "nombre": "Bimbo Girl Halloqueens",
+      "imagenes": [
+        "Cartas/Reinas/Bimbo.jpeg"
+      ],
+      "tags": "reina halloqueens promo"
+    },
+    {
+      "nombre": "Bimbo Jean Girl",
+      "imagenes": [
+        "Cartas/Reinas/BJG.jpeg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Bimbo Witch",
+      "imagenes": [
+        "Cartas/Reinas/BGW.jpeg"
+      ],
+      "tags": "reina white"
     },
     {
       "nombre": "Blacky Midnight",
@@ -80,11 +159,462 @@
       ]
     },
     {
-      "nombre": "Money4U",
+      "nombre": "BLADURKA Glamour",
       "imagenes": [
-        "Cartas/Reinas/Money.jpeg"
+        "Cartas/Reinas/BW.jpeg"
       ],
-      "tags": "reina midnight"
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Bluthyd Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/BC.jpeg"
+      ],
+      "tags": "reina cartoon",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/04/2026",
+          "nota": "Peformance: 3>2"
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bluthyd Criatura Santanas",
+      "imagenes": [
+        "Cartas/Reinas/BluthydCriatura.jpg"
+      ],
+      "tags": "reina santanas"
+    },
+    {
+      "nombre": "Bluthyd de Chatarra Dragart",
+      "imagenes": [
+        "Cartas/Reinas/DBluthyd.jpg"
+      ],
+      "tags": "reina dragart",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto que interactúa con Dragóncita Estatua Dragart."
+        }
+      ]
+    },
+    {
+      "nombre": "Bluthyd y El Mecha",
+      "imagenes": [
+        "Cartas/Reinas/NBYM.jpg"
+      ],
+      "tags": "reina white",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "19/05/2026",
+          "nota": "Se añade un efecto nuevo que permite activar las Armas White dos veces mientras Bluthyd y El Mecha estén en combate, dándole a esta Reina un rol mucho más dominante dentro del mazo White."
+        }
+      ]
+    },
+    {
+      "nombre": "Bluthydcita Discord",
+      "imagenes": [
+        "Cartas/Reinas/DiscordBlu.jpg"
+      ],
+      "tags": "reina discord"
+    },
+    {
+      "nombre": "Búho Mojado",
+      "imagenes": [
+        "Cartas/Reinas/Buho.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Burqa Girl",
+      "imagenes": [
+        "Cartas/Reinas/Burqa.jpeg",
+        "Cartas/Reinas/BurqaAlt.png"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Cabrita Vanth",
+      "imagenes": [
+        "Cartas/Reinas/Cabra.jpg",
+        "Cartas/Reinas/CabritaAlt.png"
+      ],
+      "tags": "reina vanth mascota",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "04/05/2026",
+          "nota": "Peformance: 2>1; Comedia 3>2<br>Junto a Amigo Fiel, Cabrita Vanth ofrecía una fuerte ventaja a las Reinas White durante el juego temprano, por lo que se han reducido sus estadísticas para balancear su escalado de poder."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Caracol en la Piedra",
+      "imagenes": [
+        "Cartas/Reinas/PCaracol.jpg"
+      ],
+      "tags": "reina piedra mascosta"
+    },
+    {
+      "nombre": "Cerdawn",
+      "imagenes": [
+        "Cartas/Reinas/Cerdawn.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Charlie Twink y El Cerdito Asado",
+      "imagenes": [
+        "Cartas/Reinas/CTCA.jpeg"
+      ],
+      "tags": "reina tkd"
+    },
+    {
+      "nombre": "Chucky y Tiffany Slasher",
+      "imagenes": [
+        "Cartas/Reinas/SChucky.jpg"
+      ],
+      "tags": "reina slasher"
+    },
+    {
+      "nombre": "Clemont Trainer ⭐",
+      "imagenes": [
+        "Cartas/Reinas/BLClemont.jpg"
+      ],
+      "tags": "reina heroe boylove sparkle"
+    },
+    {
+      "nombre": "Cock Vanth LDR",
+      "imagenes": [
+        "Cartas/Reinas/NCockLDR.jpg"
+      ],
+      "tags": "reina ldr vanth promo",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "13/05/2026",
+          "nota": "Performance 0>1; Comedia 5>4<br>Se ajusta Performance a 1 para reducir la línea situacional de victoria con 0 sin eliminarla del todo. Se baja Comedia a 4 y se mantiene Actuación en 2, afinando su impacto general frente a otras Reinas y manteniendo su estilo de riesgo-recompensa."
+        }
+      ]
+    },
+    {
+      "nombre": "Contenedor Biz4rre",
+      "imagenes": [
+        "Cartas/Reinas/BContenedor.jpg"
+      ],
+      "tags": "reina biz4rre"
+    },
+    {
+      "nombre": "Coupple Gaga LDR",
+      "imagenes": [
+        "Cartas/Reinas/LDRCoupple.jpg"
+      ],
+      "tags": "reina ldr"
+    },
+    {
+      "nombre": "Cris Herondale",
+      "imagenes": [
+        "Cartas/Reinas/HGCris.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Dalas Diablo Psicópata YTB",
+      "imagenes": [
+        "Cartas/Reinas/YTDalas.jpg"
+      ],
+      "tags": "reina youtubible"
+    },
+    {
+      "nombre": "Dawn Diallo",
+      "imagenes": [
+        "Cartas/Reinas/HGDawn.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Dawn Ultimate Pageant",
+      "imagenes": [
+        "Cartas/Reinas/Dawn Dangan.jpeg"
+      ],
+      "tags": "reina dangan promo"
+    },
+    {
+      "nombre": "Dawn y Eris Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/CDawnyEris.jpg"
+      ],
+      "tags": "reina cartoon dangan"
+    },
+    {
+      "nombre": "Deformada Vanth",
+      "imagenes": [
+        "Cartas/Reinas/DDeformada.jpg"
+      ],
+      "tags": "reina vanth dragart"
+    },
+    {
+      "nombre": "Destiny V",
+      "imagenes": [
+        "Cartas/Reinas/DestinyV.jpg"
+      ],
+      "tags": "reina vproduction"
+    },
+    {
+      "nombre": "Divaza El Profeta YTB",
+      "imagenes": [
+        "Cartas/Reinas/YTDivaza.jpg"
+      ],
+      "tags": "reina youtubible"
+    },
+    {
+      "nombre": "Dragón Biz4rre",
+      "imagenes": [
+        "Cartas/Reinas/BDragon.jpg"
+      ],
+      "tags": "reina biz4rre ldr"
+    },
+    {
+      "nombre": "Dragóncita Estatua Dragart",
+      "imagenes": [
+        "Cartas/Reinas/Dragon.jpeg"
+      ],
+      "tags": "reina dragart"
+    },
+    {
+      "nombre": "Edphia Diva TQMix",
+      "imagenes": [
+        "Cartas/Reinas/MixEdphia.jpg"
+      ],
+      "tags": "reina tqmix"
+    },
+    {
+      "nombre": "Ellody Boss Sparkle",
+      "imagenes": [
+        "Cartas/Reinas/SEllody.jpg"
+      ],
+      "tags": "reina villana sparkle promo",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Ellody Santanas",
+      "imagenes": [
+        "Cartas/Reinas/Ellody.jpeg"
+      ],
+      "tags": "reina santanas promo",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Enigma",
+      "imagenes": [
+        "Cartas/Reinas/EnigmaTKD.jpeg"
+      ],
+      "tags": "reina tkd vanth"
+    },
+    {
+      "nombre": "ENIGMA Halloqueens",
+      "imagenes": [
+        "Cartas/Reinas/Enigma.jpg"
+      ],
+      "tags": "reina halloqueens promo"
+    },
+    {
+      "nombre": "Eris Cambur",
+      "imagenes": [
+        "Cartas/Reinas/Cambur.jpeg"
+      ],
+      "tags": "reina dangan"
+    },
+    {
+      "nombre": "Estalactita",
+      "imagenes": [
+        "Cartas/Reinas/PEstalactita.jpg"
+      ],
+      "tags": "reina piedra"
+    },
+    {
+      "nombre": "Estigia Eucaronte",
+      "imagenes": [
+        "Cartas/Reinas/Estigia Eucaronte.jpeg"
+      ],
+      "tags": "reina dangan"
+    },
+    {
+      "nombre": "Estigia Loquita TND",
+      "imagenes": [
+        "Cartas/Reinas/Esti.jpg"
+      ],
+      "tags": "reina tnd"
+    },
+    {
+      "nombre": "Eva Cado Pride 🌈",
+      "imagenes": [
+        "Cartas/Reinas/PrideCado.jpg"
+      ],
+      "tags": "reina pride"
+    },
+    {
+      "nombre": "Evette y Blake Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGEvette.jpg"
+      ],
+      "tags": "reina hogwarts slasher"
+    },
+    {
+      "nombre": "Fairina Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGFairina.jpg"
+      ],
+      "tags": "reina hogwarts tkd"
+    },
+    {
+      "nombre": "Fanta Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/FC.jpeg"
+      ],
+      "tags": "reina cartoon"
+    },
+    {
+      "nombre": "Fatmama y Lebiggy ASI",
+      "imagenes": [
+        "Cartas/Reinas/NASIFat.jpg"
+      ],
+      "tags": "reina asi promo",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "15/05/2026",
+          "nota": "Eliminado el efecto de mover un stat de la Reina rival. Ahora solo recibe dos orbes al caer."
+        }
+      ]
+    },
+    {
+      "nombre": "Feliccia Di Rossi",
+      "imagenes": [
+        "Cartas/Reinas/RossiFeliccia.jpg"
+      ],
+      "tags": "reina dirossi"
+    },
+    {
+      "nombre": "Fetito Bluthyd",
+      "imagenes": [
+        "Cartas/Reinas/SFetito.jpg"
+      ],
+      "tags": "reina heroe villana sparkle mascota"
+    },
+    {
+      "nombre": "Flawwz Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HWFlawwz.jpg"
+      ],
+      "tags": "reina hogwarts midnight",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Fósil de Piedra",
+      "imagenes": [
+        "Cartas/Reinas/PFosil.jpg"
+      ],
+      "tags": "reina piedra dragart",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Freddy Krueger Slasher",
+      "imagenes": [
+        "Cartas/Reinas/NSLFreddy.jpg"
+      ],
+      "tags": "reina slasher",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Ahora solamente baja -1 punto de estadística si la Reina rival tiene efecto."
+        }
+      ]
+    },
+    {
+      "nombre": "Fwoods Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGFwoods.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Garnet ASI",
+      "imagenes": [
+        "Cartas/Reinas/ASIGarnet.jpg"
+      ],
+      "tags": "reina asi promo sparkle"
+    },
+    {
+      "nombre": "Garnet Healer Sparkle",
+      "imagenes": [
+        "Cartas/Reinas/SGarnet.jpg"
+      ],
+      "tags": "reina heroe sparkle promo",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "GARNETCITA Discord",
+      "imagenes": [
+        "Cartas/Reinas/DiscordGarnet.jpg"
+      ],
+      "tags": "reina discord"
+    },
+    {
+      "nombre": "Gato Manzana",
+      "imagenes": [
+        "Cartas/Reinas/GatoM.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Ghostface Slasher",
+      "imagenes": [
+        "Cartas/Reinas/NSLGhost.jpg"
+      ],
+      "tags": "reina slasher",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "19/05/2026",
+          "nota": "Se remueve su efecto para que no pueda dominar tan fácilmente en reto de Comedia."
+        }
+      ]
+    },
+    {
+      "nombre": "Gioser Halloqueens",
+      "imagenes": [
+        "Cartas/Reinas/Gio.jpg"
+      ],
+      "tags": "reina halloqueens promo"
     },
     {
       "nombre": "Gorilola",
@@ -107,109 +637,47 @@
       ]
     },
     {
-      "nombre": "Cock Vanth LDR",
+      "nombre": "Harmonie Silverstone Dangan",
       "imagenes": [
-        "Cartas/Reinas/NCockLDR.jpg"
-      ],
-      "tags": "reina ldr vanth promo",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "13/05/2026",
-          "nota": "Performance 0>1; Comedia 5>4<br>Se ajusta Performance a 1 para reducir la línea situacional de victoria con 0 sin eliminarla del todo. Se baja Comedia a 4 y se mantiene Actuación en 2, afinando su impacto general frente a otras Reinas y manteniendo su estilo de riesgo-recompensa."
-        }
-      ]
-    },
-    {
-      "nombre": "Kuinaza Midnight",
-      "imagenes": [
-        "Cartas/Reinas/KM.jpeg"
-      ],
-      "tags": "reina midnight"
-    },
-    {
-      "nombre": "Cabrita Vanth",
-      "imagenes": [
-        "Cartas/Reinas/Cabra.jpg",
-        "Cartas/Reinas/CabritaAlt.png"
-      ],
-      "tags": "reina vanth mascota",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "04/05/2026",
-          "nota": "Peformance: 2>1; Comedia 3>2<br>Junto a Amigo Fiel, Cabrita Vanth ofrecía una fuerte ventaja a las Reinas White durante el juego temprano, por lo que se han reducido sus estadísticas para balancear su escalado de poder."
-        }
-      ],
-      "notas": [
-        "*Solo se puede usar una."
-      ]
-    },
-    {
-      "nombre": "Ponyboy Ultimate Musician",
-      "imagenes": [
-        "Cartas/Reinas/Pony.jpeg"
+        "Cartas/Reinas/DHarmonie.jpg"
       ],
       "tags": "reina dangan"
     },
     {
-      "nombre": "Lyssea Ultimate Writer",
+      "nombre": "Heather Diallo",
       "imagenes": [
-        "Cartas/Reinas/Lyssea Ultimate Writer.jpeg"
+        "Cartas/Reinas/HWHeather.jpg"
       ],
-      "tags": "reina dangan promo"
+      "tags": "reina hogwarts ldr"
     },
     {
-      "nombre": "Eris Cambur",
+      "nombre": "Hexora Santanas",
       "imagenes": [
-        "Cartas/Reinas/Cambur.jpeg"
+        "Cartas/Reinas/SHexora.jpg"
       ],
-      "tags": "reina dangan"
+      "tags": "reina santanas"
     },
     {
-      "nombre": "Lavadora Samsung",
+      "nombre": "Himbo Cow BoyLove",
       "imagenes": [
-        "Cartas/Reinas/TKDLavadora.jpg"
+        "Cartas/Reinas/BHimbo.jpg"
       ],
-      "tags": "reina tkd promo",
-      "balance": "buff",
+      "tags": "reina boylove"
+    },
+    {
+      "nombre": "Hkai Biz4rre",
+      "imagenes": [
+        "Cartas/Reinas/NBHkai.jpg"
+      ],
+      "tags": "reina biz4rre halloqueens",
+      "balance": "nerf",
       "historial": [
         {
-          "tipo": "buff",
-          "fecha": "24/05/2026",
-          "nota": "Se añadió efecto para recibir MISSGENDER de Jaureguí TKD."
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Se ajusta su efecto para disminuir ligeramente el poder de las estrategias VNK puras y de los motores VNK: Ahora, únicamente, al caer primera, baja 2 puntos de estadística al rival."
         }
       ]
-    },
-    {
-      "nombre": "Suavizante Downy",
-      "imagenes": [
-        "Cartas/Reinas/Sua.jpeg"
-      ],
-      "tags": "reina tkd"
-    },
-    {
-      "nombre": "PEPEronní",
-      "imagenes": [
-        "Cartas/Reinas/PP.jpeg"
-      ],
-      "tags": "reina tkd"
-    },
-    {
-      "nombre": "Tess Tickles",
-      "imagenes": [
-        "Cartas/Reinas/Tess.jpeg"
-      ],
-      "tags": "reina tkd promo"
-    },
-    {
-      "nombre": "Sister hONG",
-      "imagenes": [
-        "Cartas/Reinas/TKDSister.jpg"
-      ],
-      "tags": "reina tkd"
     },
     {
       "nombre": "Hkai Halloqueens",
@@ -227,192 +695,21 @@
       ]
     },
     {
-      "nombre": "ENIGMA Halloqueens",
+      "nombre": "Hkai Shooter Sparkle",
       "imagenes": [
-        "Cartas/Reinas/Enigma.jpg"
+        "Cartas/Reinas/NSHkai.jpg"
       ],
-      "tags": "reina halloqueens promo"
-    },
-    {
-      "nombre": "Iaved Halloqueens",
-      "imagenes": [
-        "Cartas/Reinas/IH.jpeg"
-      ],
-      "tags": "reina vanth halloqueens promo"
-    },
-    {
-      "nombre": "Quilla Sumac TND",
-      "imagenes": [
-        "Cartas/Reinas/Quilla.jpg",
-        "Cartas/Reinas/QuillaAlts.png"
-      ],
-      "tags": "reina tnd",
-      "notas": [
-        "Ruling: su efecto solo se puede usar una vez y hasta que sea la Reina con mayor comedia."
-      ]
-    },
-    {
-      "nombre": "Azamara TND",
-      "imagenes": [
-        "Cartas/Reinas/Aza.jpg"
-      ],
-      "tags": "reina tnd"
-    },
-    {
-      "nombre": "Estigia Loquita TND",
-      "imagenes": [
-        "Cartas/Reinas/Esti.jpg"
-      ],
-      "tags": "reina tnd"
-    },
-    {
-      "nombre": "Nyx AimeP3 TND",
-      "imagenes": [
-        "Cartas/Reinas/Nyx.jpeg"
-      ],
-      "tags": "reina tnd"
-    },
-    {
-      "nombre": "AMY._.XD TND",
-      "imagenes": [
-        "Cartas/Reinas/AMY.jpeg"
-      ],
-      "tags": "reina tnd promo"
-    },
-    {
-      "nombre": "Gioser Halloqueens",
-      "imagenes": [
-        "Cartas/Reinas/Gio.jpg"
-      ],
-      "tags": "reina halloqueens promo"
-    },
-    {
-      "nombre": "Bimbo Girl Halloqueens",
-      "imagenes": [
-        "Cartas/Reinas/Bimbo.jpeg"
-      ],
-      "tags": "reina halloqueens promo"
-    },
-    {
-      "nombre": "Maxine Nube Dragart",
-      "imagenes": [
-        "Cartas/Reinas/Max.jpeg"
-      ],
-      "tags": "reina dragart"
-    },
-    {
-      "nombre": "Bluthyd Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/BC.jpeg"
-      ],
-      "tags": "reina cartoon",
+      "tags": "reina heroe sparkle promo tqmix",
       "balance": "nerf",
       "historial": [
         {
           "tipo": "nerf",
-          "fecha": "23/04/2026",
-          "nota": "Peformance: 3>2"
+          "fecha": "23/05/2026",
+          "nota": "Performance 3>2<br>Se reduce su Performance para disminuir ligeramente el poder de las estrategias VNK puras y de los motores VNK."
         }
       ],
       "notas": [
-        "Ruling: los efectos de las Reinas Cartoon se activan automáticamente cuando aparece la Reina rival; si no, se pierden."
-      ]
-    },
-    {
-      "nombre": "Alejandro Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/DawnC.jpeg"
-      ],
-      "tags": "reina cartoon",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "23/04/2026",
-          "nota": "Peformance: 2>1\nActuación: 2>1"
-        }
-      ],
-      "notas": [
-        "Ruling: los efectos de las Reinas Cartoon se activan automáticamente cuando aparece la Reina rival; si no, se pierden."
-      ]
-    },
-    {
-      "nombre": "Trío de Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/CTrio.jpg"
-      ],
-      "tags": "reina cartoon",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "23/04/2026",
-          "nota": "Ahora solo funciona con Gatadas usadas por el rival. Se añadió<br>un incremento máximo de +2 a una<br>sola estadística."
-        }
-      ],
-      "notas": [
-        "Ruling: El máximo de +2 solo puede aplicarse a una única estadística;no se puede dividir entre varias."
-      ]
-    },
-    {
-      "nombre": "Dragóncita Estatua Dragart",
-      "imagenes": [
-        "Cartas/Reinas/Dragon.jpeg"
-      ],
-      "tags": "reina dragart"
-    },
-    {
-      "nombre": "Bluthyd de Chatarra Dragart",
-      "imagenes": [
-        "Cartas/Reinas/DBluthyd.jpg"
-      ],
-      "tags": "reina dragart",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "24/05/2026",
-          "nota": "Se añadió efecto que interactúa con Dragóncita Estatua Dragart."
-        }
-      ]
-    },
-    {
-      "nombre": "Kevin osvaldo Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/KOC.jpeg"
-      ],
-      "tags": "reina cartoon"
-    },
-    {
-      "nombre": "Lyon Lexus Arte Dragart",
-      "imagenes": [
-        "Cartas/Reinas/DLyon.jpg"
-      ],
-      "tags": "reina dragart",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "24/05/2026",
-          "nota": "Se añadió efecto que permite a Lyon Lexus Arte Dragart cambiar una de sus estadísticas a 3 si solo hay Reinas Dragart en el mazo."
-        }
-      ]
-    },
-    {
-      "nombre": "Fanta Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/FC.jpeg"
-      ],
-      "tags": "reina cartoon"
-    },
-    {
-      "nombre": "Kuinaza Estatua Dragart",
-      "imagenes": [
-        "Cartas/Reinas/KED.jpeg"
-      ],
-      "tags": "reina midnight dragart",
-      "notas": [
-        "Ruling: solo puede aplicar su efecto en estadísticas pares."
+        ""
       ]
     },
     {
@@ -423,253 +720,90 @@
       "tags": "reina tqmix"
     },
     {
-      "nombre": "Bluthyd y El Mecha",
+      "nombre": "Hkai Ventrílocuo LDR",
       "imagenes": [
-        "Cartas/Reinas/NBYM.jpg"
+        "Cartas/Reinas/NLDRHkaiVentri.jpg"
       ],
-      "tags": "reina white",
+      "tags": "reina ldr midnight cartoon",
       "balance": "buff",
       "historial": [
         {
           "tipo": "buff",
-          "fecha": "19/05/2026",
-          "nota": "Se añade un efecto nuevo que permite activar las Armas White dos veces mientras Bluthyd y El Mecha estén en combate, dándole a esta Reina un rol mucho más dominante dentro del mazo White."
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto para recibir VIH si hay otro Hkai en el mazo."
         }
       ]
     },
     {
-      "nombre": "Bimbo Witch",
+      "nombre": "Iaved Halloqueens",
       "imagenes": [
-        "Cartas/Reinas/BGW.jpeg"
+        "Cartas/Reinas/IH.jpeg"
       ],
-      "tags": "reina white"
+      "tags": "reina vanth halloqueens promo"
     },
     {
-      "nombre": "Bimbo Jean Girl",
+      "nombre": "IAVED VANTH-TQMix",
       "imagenes": [
-        "Cartas/Reinas/BJG.jpeg"
+        "Cartas/Reinas/MixIaved.jpg"
       ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Burqa Girl",
-      "imagenes": [
-        "Cartas/Reinas/Burqa.jpeg",
-        "Cartas/Reinas/BurqaAlt.png"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Rina y Kuina",
-      "imagenes": [
-        "Cartas/Reinas/RYK.jpeg"
-      ],
-      "tags": "reina midnight",
-      "notas": [
-        "Ruling: no elimina los tipos existentes de la Reina rival."
-      ]
-    },
-    {
-      "nombre": "BLADURKA Glamour",
-      "imagenes": [
-        "Cartas/Reinas/BW.jpeg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Lolita Apropiación cultural",
-      "imagenes": [
-        "Cartas/Reinas/LAC.jpeg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Lolita Arácnida",
-      "imagenes": [
-        "Cartas/Reinas/LA.jpeg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Lysea Alada",
-      "imagenes": [
-        "Cartas/Reinas/LyA.jpeg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Lysea Monarca",
-      "imagenes": [
-        "Cartas/Reinas/LM.jpeg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Mierga Y Tony Benett",
-      "imagenes": [
-        "Cartas/Reinas/NMTB.jpg"
-      ],
-      "tags": "reina white",
-      "balance": "buff",
+      "tags": "reina tqmix vanth",
+      "balance": "ajuste",
       "historial": [
         {
-          "tipo": "buff",
-          "fecha": "19/05/2026",
-          "nota": "Se añade un nuevo efecto que permite a Mierga y Tony Benett destacar en reto Mezclado junto a Amigo Fiel, orientándola hacia una estrategia Mascota-White a cambio de un mayor potencial estadístico."
+          "tipo": "ajuste",
+          "fecha": "08/05/2026",
+          "nota": "IAVED VANTH-TQMix ahora puede integrarse a estrategias Vanth o TQMix según la situación, permitiéndole una mayor flexibilidad dentro de ambos arquetipos."
         }
       ]
     },
     {
-      "nombre": "Búho Mojado",
+      "nombre": "Janis Roll Santanas",
       "imagenes": [
-        "Cartas/Reinas/Buho.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Gato Manzana",
-      "imagenes": [
-        "Cartas/Reinas/GatoM.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Romina",
-      "imagenes": [
-        "Cartas/Reinas/Romina.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Renata la Rata",
-      "imagenes": [
-        "Cartas/Reinas/RR.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Axolotitos",
-      "imagenes": [
-        "Cartas/Reinas/Axo.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Patito Tímido",
-      "imagenes": [
-        "Cartas/Reinas/PT.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Cerdawn",
-      "imagenes": [
-        "Cartas/Reinas/Cerdawn.jpeg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Charlie Twink y El Cerdito Asado",
-      "imagenes": [
-        "Cartas/Reinas/CTCA.jpeg"
-      ],
-      "tags": "reina tkd"
-    },
-    {
-      "nombre": "Enigma",
-      "imagenes": [
-        "Cartas/Reinas/EnigmaTKD.jpeg"
-      ],
-      "tags": "reina tkd vanth"
-    },
-    {
-      "nombre": "Trío de Santanas",
-      "imagenes": [
-        "Cartas/Reinas/STrio.jpg"
-      ],
-      "tags": "reina santanas",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "04/05/2026",
-          "nota": "El nuevo efecto permite a Trío de Santanas interactuar más eficientemente con ‘Quiteo de Santanas’, proporcionando una ventaja decisiva al hacer uso de su mecánica principal."
-        }
-      ]
-    },
-    {
-      "nombre": "Ellody Santanas",
-      "imagenes": [
-        "Cartas/Reinas/Ellody.jpeg"
-      ],
-      "tags": "reina santanas promo",
-      "notas": [
-        "Ruling: si sale mezclado, se debe elegir en cuál de las dos estadísticas se asignará el +1."
-      ]
-    },
-    {
-      "nombre": "Mirelle Santanas",
-      "imagenes": [
-        "Cartas/Reinas/MirelleS.jpeg"
-      ],
-      "tags": "reina santanas promo"
-    },
-    {
-      "nombre": "Tania y Jauregui Santanas",
-      "imagenes": [
-        "Cartas/Reinas/TJS.jpeg"
+        "Cartas/Reinas/SJanis.jpg"
       ],
       "tags": "reina santanas"
     },
     {
-      "nombre": "A quién le importa V",
+      "nombre": "Jason Slasher",
       "imagenes": [
-        "Cartas/Reinas/AquienV.jpg"
+        "Cartas/Reinas/SLJason.jpg"
       ],
-      "tags": "reina vproduction"
+      "tags": "reina slasher"
     },
     {
-      "nombre": "Destiny V",
+      "nombre": "Jauregui La Domadora",
       "imagenes": [
-        "Cartas/Reinas/DestinyV.jpg"
+        "Cartas/Reinas/ASIJauregui.jpg"
       ],
-      "tags": "reina vproduction"
+      "tags": "reina santanas asi promo"
     },
     {
-      "nombre": "Pamela V",
+      "nombre": "Jaureguita Discord",
       "imagenes": [
-        "Cartas/Reinas/PamelaV.jpg"
+        "Cartas/Reinas/DiscordJau.jpg"
       ],
-      "tags": "reina vproduction"
+      "tags": "reina discord"
     },
     {
-      "nombre": "Randy y Teo V",
+      "nombre": "Jeff The Killer",
       "imagenes": [
-        "Cartas/Reinas/NVRandy.jpg"
+        "Cartas/Reinas/SLJeff.jpg"
       ],
-      "tags": "reina vproduction mascota",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "08/05/2026",
-          "nota": "Performance: 2>1; Comedia: 2>1; Actuación: 2>1;<br>Randy y Teo V obtenía una sinergia demasiado eficiente con Amigo Fiel, por lo que se redujeron ligeramente sus stats para prevenir interacciones desbalanceadas a futuro."
-        }
-      ]
+      "tags": "reina cartoon slasher boylove"
     },
     {
-      "nombre": "Vitany V",
+      "nombre": "Jhasielita Discord",
       "imagenes": [
-        "Cartas/Reinas/VitanyV.jpg"
+        "Cartas/Reinas/DiscordJhas.jpg"
       ],
-      "tags": "reina vproduction"
+      "tags": "reina discord"
     },
     {
-      "nombre": "Money Cartoon",
+      "nombre": "Josualia Borracha Dangan",
       "imagenes": [
-        "Cartas/Reinas/MCartoon.jpg"
+        "Cartas/Reinas/DJosualia.jpg"
       ],
-      "tags": "reina midnight cartoon"
+      "tags": "reina dangan josualia"
     },
     {
       "nombre": "Josualia Conduce",
@@ -684,6 +818,13 @@
         "Cartas/Reinas/JDeidad.jpg"
       ],
       "tags": "reina josualia"
+    },
+    {
+      "nombre": "Josualia Santanas",
+      "imagenes": [
+        "Cartas/Reinas/SJosualia.jpg"
+      ],
+      "tags": "reina santanas josualia"
     },
     {
       "nombre": "Josualia Virgen",
@@ -707,31 +848,515 @@
       "tags": "reina josualia"
     },
     {
-      "nombre": "Deformada Vanth",
+      "nombre": "Kevin osvaldo Cartoon",
       "imagenes": [
-        "Cartas/Reinas/DDeformada.jpg"
+        "Cartas/Reinas/KOC.jpeg"
       ],
-      "tags": "reina vanth dragart"
+      "tags": "reina cartoon"
     },
     {
-      "nombre": "Hkai Shooter Sparkle",
+      "nombre": "Kuinaza Estatua Dragart",
       "imagenes": [
-        "Cartas/Reinas/NSHkai.jpg"
+        "Cartas/Reinas/KED.jpeg"
       ],
-      "tags": "reina heroe sparkle promo tqmix",
+      "tags": "reina midnight dragart",
       "notas": [
-        "Ruling: puede bajarse 1 en una estadística a él mismo. El efecto solo se activa hasta que la Reina rival está en campo. Cuenta como Reina."
+        ""
       ]
     },
     {
-      "nombre": "Vitany Fighters Sparkle",
+      "nombre": "Kuinaza Midnight",
       "imagenes": [
-        "Cartas/Reinas/NSVitany.jpg"
+        "Cartas/Reinas/KM.jpeg"
       ],
-      "tags": "reina heroe sparkle promo",
-      "notas": [
-        "Ruling: cuenta como Reina."
+      "tags": "reina midnight"
+    },
+    {
+      "nombre": "Kuizantra Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGKuizantra.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Lady Grasa ASI",
+      "imagenes": [
+        "Cartas/Reinas/NASIGrasa.jpg"
+      ],
+      "tags": "reina asi promo",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "15/05/2026",
+          "nota": "El efecto de recibir una orbe ahora requiere tirar 1d100 y obtener +50."
+        }
       ]
+    },
+    {
+      "nombre": "Lavadora Samsung",
+      "imagenes": [
+        "Cartas/Reinas/TKDLavadora.jpg"
+      ],
+      "tags": "reina tkd promo",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto para recibir MISSGENDER de Jaureguí TKD."
+        }
+      ]
+    },
+    {
+      "nombre": "Lechona",
+      "imagenes": [
+        "Cartas/Reinas/Lechona.jpg"
+      ],
+      "tags": "reina vproduction tnd ldr"
+    },
+    {
+      "nombre": "Lenya Kiki Pride 🌈",
+      "imagenes": [
+        "Cartas/Reinas/PrideLenya.jpg"
+      ],
+      "tags": "reina pride"
+    },
+    {
+      "nombre": "Lenya La Niñera",
+      "imagenes": [
+        "Cartas/Reinas/DiscordLenya.jpg"
+      ],
+      "tags": "reina discord"
+    },
+    {
+      "nombre": "Lenya y Dawn TQMix",
+      "imagenes": [
+        "Cartas/Reinas/MixLenya.jpg"
+      ],
+      "tags": "reina tqmix"
+    },
+    {
+      "nombre": "Lolita Apropiación cultural",
+      "imagenes": [
+        "Cartas/Reinas/LAC.jpeg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Lolita Arácnida",
+      "imagenes": [
+        "Cartas/Reinas/LA.jpeg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Lolita Pop Star Pride 🌈",
+      "imagenes": [
+        "Cartas/Reinas/PrideLolita.jpg"
+      ],
+      "tags": "reina pride"
+    },
+    {
+      "nombre": "Lyon Lexus Arte Dragart",
+      "imagenes": [
+        "Cartas/Reinas/DLyon.jpg"
+      ],
+      "tags": "reina dragart",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto que permite a Lyon Lexus Arte Dragart cambiar una de sus estadísticas a 3 si solo hay Reinas Dragart en el mazo."
+        }
+      ]
+    },
+    {
+      "nombre": "Lyoncito Lexus Discord",
+      "imagenes": [
+        "Cartas/Reinas/DiscordLyon.jpg"
+      ],
+      "tags": "reina discord"
+    },
+    {
+      "nombre": "Lysea Alada",
+      "imagenes": [
+        "Cartas/Reinas/LyA.jpeg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Lysea Monarca",
+      "imagenes": [
+        "Cartas/Reinas/LM.jpeg"
+      ],
+      "tags": "reina white"
+    },
+    {
+      "nombre": "Lysea y Su Burrito Sabanero",
+      "imagenes": [
+        "Cartas/Reinas/TQMixLysea.jpg"
+      ],
+      "tags": "reina tqmix"
+    },
+    {
+      "nombre": "Lyssea Ultimate Writer",
+      "imagenes": [
+        "Cartas/Reinas/Lyssea Ultimate Writer.jpeg"
+      ],
+      "tags": "reina dangan promo"
+    },
+    {
+      "nombre": "Mannequin Bolsita de Papel",
+      "imagenes": [
+        "Cartas/Reinas/TNDPapel.jpg"
+      ],
+      "tags": "reina tnd"
+    },
+    {
+      "nombre": "Maxine Nube Dragart",
+      "imagenes": [
+        "Cartas/Reinas/Max.jpeg"
+      ],
+      "tags": "reina dragart"
+    },
+    {
+      "nombre": "Michael Myers Slasher",
+      "imagenes": [
+        "Cartas/Reinas/SLMichael.jpg"
+      ],
+      "tags": "reina slasher"
+    },
+    {
+      "nombre": "Mierga Y Tony Benett",
+      "imagenes": [
+        "Cartas/Reinas/NMTB.jpg"
+      ],
+      "tags": "reina white",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "19/05/2026",
+          "nota": "Se añade un nuevo efecto que permite a Mierga y Tony Benett destacar en reto Mezclado junto a Amigo Fiel, orientándola hacia una estrategia Mascota-White a cambio de un mayor potencial estadístico."
+        }
+      ]
+    },
+    {
+      "nombre": "Miranda V",
+      "imagenes": [
+        "Cartas/Reinas/VMiranda.jpg"
+      ],
+      "tags": "reina vproduction"
+    },
+    {
+      "nombre": "Mirelle Santanas",
+      "imagenes": [
+        "Cartas/Reinas/MirelleS.jpg"
+      ],
+      "tags": "reina santanas promo"
+    },
+    {
+      "nombre": "Mirelle TND",
+      "imagenes": [
+        "Cartas/Reinas/TNDMirelle.jpg"
+      ],
+      "tags": "reina tnd"
+    },
+    {
+      "nombre": "Money Biz4rre",
+      "imagenes": [
+        "Cartas/Reinas/BMoney.jpg"
+      ],
+      "tags": "reina biz4rre slasher"
+    },
+    {
+      "nombre": "Money Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/MCartoon.jpg"
+      ],
+      "tags": "reina midnight cartoon"
+    },
+    {
+      "nombre": "Money Mujer Biz4rre",
+      "imagenes": [
+        "Cartas/Reinas/BMujer.jpg"
+      ],
+      "tags": "reina biz4rre"
+    },
+    {
+      "nombre": "Money Pride 🌈",
+      "imagenes": [
+        "Cartas/Reinas/PrideMoney.jpg"
+      ],
+      "tags": "reina pride biz4rre",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Money4U",
+      "imagenes": [
+        "Cartas/Reinas/Money.jpeg"
+      ],
+      "tags": "reina midnight"
+    },
+    {
+      "nombre": "Monokuma Dangan",
+      "imagenes": [
+        "Cartas/Reinas/DMonokuma.jpg"
+      ],
+      "tags": "reina dangan mascota"
+    },
+    {
+      "nombre": "Nacho Bola Disco",
+      "imagenes": [
+        "Cartas/Reinas/MNacho.jpg"
+      ],
+      "tags": "reina ldr midnight",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto para recibir VIH."
+        }
+      ]
+    },
+    {
+      "nombre": "Nefa Di Rossi",
+      "imagenes": [
+        "Cartas/Reinas/RossiNefa.jpg"
+      ],
+      "tags": "reina dirossi"
+    },
+    {
+      "nombre": "Nyx AimeP3 TND",
+      "imagenes": [
+        "Cartas/Reinas/Nyx.jpeg"
+      ],
+      "tags": "reina tnd"
+    },
+    {
+      "nombre": "Pamela V",
+      "imagenes": [
+        "Cartas/Reinas/PamelaV.jpg"
+      ],
+      "tags": "reina vproduction"
+    },
+    {
+      "nombre": "Patética Neon Pride 🌈",
+      "imagenes": [
+        "Cartas/Reinas/PridePatetica.jpg"
+      ],
+      "tags": "reina pride dragart",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Patito Tímido",
+      "imagenes": [
+        "Cartas/Reinas/PT.jpeg",
+        "Cartas/Reinas/PTGIF.gif"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Pearl SLASHER",
+      "imagenes": [
+        "Cartas/Reinas/SLPearl.jpg"
+      ],
+      "tags": "reina slasher santanas"
+    },
+    {
+      "nombre": "PEPEronní",
+      "imagenes": [
+        "Cartas/Reinas/PP.jpeg"
+      ],
+      "tags": "reina tkd"
+    },
+    {
+      "nombre": "Piedra de Río",
+      "imagenes": [
+        "Cartas/Reinas/PRio.jpg"
+      ],
+      "tags": "reina piedra"
+    },
+    {
+      "nombre": "Piedra Pintada por Niños",
+      "imagenes": [
+        "Cartas/Reinas/PPintada.jpg"
+      ],
+      "tags": "reina piedra"
+    },
+    {
+      "nombre": "Piedra Turquesa",
+      "imagenes": [
+        "Cartas/Reinas/PiedraTurquesa.jpg"
+      ],
+      "tags": "reina piedra midnight"
+    },
+    {
+      "nombre": "Piper Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGPiper.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Polina Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGPolina.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Ponyboy Ultimate Musician",
+      "imagenes": [
+        "Cartas/Reinas/Pony.jpeg"
+      ],
+      "tags": "reina dangan"
+    },
+    {
+      "nombre": "Quilla Sumac TND",
+      "imagenes": [
+        "Cartas/Reinas/Quilla.jpg",
+        "Cartas/Reinas/QuillaAlts.png"
+      ],
+      "tags": "reina tnd promo",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Randy y Teo V",
+      "imagenes": [
+        "Cartas/Reinas/NVRandy.jpg"
+      ],
+      "tags": "reina vproduction mascota",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "08/05/2026",
+          "nota": "Performance: 2>1; Comedia: 2>1; Actuación: 2>1;<br>Randy y Teo V obtenía una sinergia demasiado eficiente con Amigo Fiel, por lo que se redujeron ligeramente sus stats para prevenir interacciones desbalanceadas a futuro."
+        }
+      ]
+    },
+    {
+      "nombre": "Renata la Rata",
+      "imagenes": [
+        "Cartas/Reinas/RR.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Rina Embarazada",
+      "imagenes": [
+        "Cartas/Reinas/Rina Embarazada.jpeg"
+      ],
+      "tags": "reina midnight"
+    },
+    {
+      "nombre": "Rina y Kuina",
+      "imagenes": [
+        "Cartas/Reinas/RYK.jpeg"
+      ],
+      "tags": "reina midnight",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Rina y Milk Futuristas TQMix",
+      "imagenes": [
+        "Cartas/Reinas/NMixRina.jpg"
+      ],
+      "tags": "reina tqmix promo midnight",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "24/05/2026",
+          "nota": "Efecto reformulado para evitar confusiones."
+        }
+      ]
+    },
+    {
+      "nombre": "Romina",
+      "imagenes": [
+        "Cartas/Reinas/Romina.jpeg"
+      ],
+      "tags": "reina mascota"
+    },
+    {
+      "nombre": "Ronika Joyería Dragart",
+      "imagenes": [
+        "Cartas/Reinas/DRonika.jpg"
+      ],
+      "tags": "reina dragart"
+    },
+    {
+      "nombre": "Ronika Veri",
+      "imagenes": [
+        "Cartas/Reinas/Ronika Veri.jpeg"
+      ],
+      "tags": "reina ldr promo"
+    },
+    {
+      "nombre": "Saiki K BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Reinas/BLSaiki.jpg"
+      ],
+      "tags": "reina boylove midnight"
+    },
+    {
+      "nombre": "Sandías Alienígena ASI",
+      "imagenes": [
+        "Cartas/Reinas/ASISandia.jpg"
+      ],
+      "tags": "reina asi"
+    },
+    {
+      "nombre": "Seme BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Reinas/BSeme.jpg"
+      ],
+      "tags": "reina boylove",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Sister hONG",
+      "imagenes": [
+        "Cartas/Reinas/TKDSister.jpg"
+      ],
+      "tags": "reina tkd",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Ahora Sister hONG se puede aumentar +3 puntos en la estadística que quiera."
+        }
+      ]
+    },
+    {
+      "nombre": "Sofred Di Rossi kkkk 🇧🇷",
+      "imagenes": [
+        "Cartas/Reinas/RossiSofred.jpg"
+      ],
+      "tags": "reina dirossi wasteus"
+    },
+    {
+      "nombre": "Spamaton Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGSpamaton.jpg"
+      ],
+      "tags": "reina hogwarts boylove"
     },
     {
       "nombre": "Spectrah Fighters Sparkle",
@@ -753,144 +1378,8 @@
         }
       ],
       "notas": [
-        "Ruling: cuenta como Reina."
+        ""
       ]
-    },
-    {
-      "nombre": "Ellody Boss Sparkle",
-      "imagenes": [
-        "Cartas/Reinas/SEllody.jpg"
-      ],
-      "tags": "reina villana sparkle promo",
-      "notas": [
-        "Ruling: cuenta como Reina."
-      ]
-    },
-    {
-      "nombre": "Garnet Healer Sparkle",
-      "imagenes": [
-        "Cartas/Reinas/SGarnet.jpg"
-      ],
-      "tags": "reina heroe sparkle promo",
-      "notas": [
-        "Ruling: cuenta como Reina."
-      ]
-    },
-    {
-      "nombre": "Astolfo BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Reinas/BAstolfo.jpg"
-      ],
-      "tags": "reina boylove"
-    },
-    {
-      "nombre": "Himbo Cow BoyLove",
-      "imagenes": [
-        "Cartas/Reinas/BHimbo.jpg"
-      ],
-      "tags": "reina boylove"
-    },
-    {
-      "nombre": "Seme BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Reinas/BSeme.jpg"
-      ],
-      "tags": "reina boylove",
-      "notas": [
-        "Ruling: un juez tiene que verificar que la carta cumple su condición de activación. Su efecto se mantiene incluso si deja el campo."
-      ]
-    },
-    {
-      "nombre": "Uke Caliente BoyLove",
-      "imagenes": [
-        "Cartas/Reinas/NBUke.jpg"
-      ],
-      "tags": "reina boylove",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "06/05/2026",
-          "nota": "Se añadió efecto de cambio de reto a actuación."
-        }
-      ]
-    },
-    {
-      "nombre": "Suke BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Reinas/BSuke.jpg"
-      ],
-      "tags": "reina boylove"
-    },
-    {
-      "nombre": "Verdimillious Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGVerdi.jpg"
-      ],
-      "tags": "reina hogwarts noflawwz"
-    },
-    {
-      "nombre": "Polina Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGPolina.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Piper Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGPiper.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Kuizantra Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGKuizantra.jpg"
-      ],
-      "tags": "reina hogwarts noflawwz"
-    },
-    {
-      "nombre": "Arpals Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGArtpals.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Dawn Diallo",
-      "imagenes": [
-        "Cartas/Reinas/HGDawn.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Edphia Diva TQMix",
-      "imagenes": [
-        "Cartas/Reinas/MixEdphia.jpg"
-      ],
-      "tags": "reina tqmix"
-    },
-    {
-      "nombre": "Miranda V",
-      "imagenes": [
-        "Cartas/Reinas/VMiranda.jpg"
-      ],
-      "tags": "reina vproduction"
-    },
-    {
-      "nombre": "Lenya y Dawn TQMix",
-      "imagenes": [
-        "Cartas/Reinas/MixLenya.jpg"
-      ],
-      "tags": "reina tqmix"
-    },
-    {
-      "nombre": "The NIGALS TQMix",
-      "imagenes": [
-        "Cartas/Reinas/MixNigals.jpg"
-      ],
-      "tags": "reina tqmix promo"
     },
     {
       "nombre": "Spectrah Kaiju LDR",
@@ -900,144 +1389,18 @@
       "tags": "reina ldr"
     },
     {
-      "nombre": "Coupple Gaga LDR",
+      "nombre": "Suavizante Downy",
       "imagenes": [
-        "Cartas/Reinas/LDRCoupple.jpg"
+        "Cartas/Reinas/Sua.jpeg"
       ],
-      "tags": "reina ldr"
+      "tags": "reina tkd"
     },
     {
-      "nombre": "Hkai Ventrílocuo LDR",
+      "nombre": "Suke BoyLove 🩷",
       "imagenes": [
-        "Cartas/Reinas/NLDRHkaiVentri.jpg"
+        "Cartas/Reinas/BSuke.jpg"
       ],
-      "tags": "reina ldr tqmix midnight cartoon"
-    },
-    {
-      "nombre": "Spamaton Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGSpamaton.jpg"
-      ],
-      "tags": "reina hogwarts boylove"
-    },
-    {
-      "nombre": "Fairina Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGFairina.jpg"
-      ],
-      "tags": "reina hogwarts tkd"
-    },
-    {
-      "nombre": "Dawn y Eris Cartoon",
-      "imagenes": [
-        "Cartas/Reinas/CDawnyEris.jpg"
-      ],
-      "tags": "reina cartoon dangan"
-    },
-    {
-      "nombre": "ALERITO Zorrita",
-      "imagenes": [
-        "Cartas/Reinas/WAlerito.jpg"
-      ],
-      "tags": "reina white"
-    },
-    {
-      "nombre": "Rina y Milk Futuristas TQMix",
-      "imagenes": [
-        "Cartas/Reinas/NMixRina.jpg"
-      ],
-      "tags": "reina tqmix promo midnight",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "24/05/2026",
-          "nota": "Efecto reformulado para evitar confusiones."
-        }
-      ]
-    },
-    {
-      "nombre": "Yazmín Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/VYazmin.jpg"
-      ],
-      "tags": "reina vanth hogwarts"
-    },
-    {
-      "nombre": "Abejita Zombie Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/NNBAbejita.jpg"
-      ],
-      "tags": "reina biz4rre",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "19/05/2026",
-          "nota": "Se retira la activación de Virus Biz4rre para reducir la consistencia del efecto en cada ronda."
-        },
-        {
-          "tipo": "ajuste",
-          "fecha": "24/05/2026",
-          "nota": "El efecto de Abejita Zombie Biz4rre de intercambiar estadísticas al caer resultaba demasiado genérico, por lo que ahora adoptará un rol más centrado en la identidad del arquetipo, activando Virus Biz4rre cada vez que el rival use una Gatada o un Arma."
-        }
-      ]
-    },
-    {
-      "nombre": "Contenedor Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/BContenedor.jpg"
-      ],
-      "tags": "reina biz4rre"
-    },
-    {
-      "nombre": "Dragón Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/BDragon.jpg"
-      ],
-      "tags": "reina biz4rre ldr"
-    },
-    {
-      "nombre": "Money Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/BMoney.jpg"
-      ],
-      "tags": "reina biz4rre slasher"
-    },
-    {
-      "nombre": "Money Mujer Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/BMujer.jpg"
-      ],
-      "tags": "reina biz4rre"
-    },
-    {
-      "nombre": "Janis Roll Santanas",
-      "imagenes": [
-        "Cartas/Reinas/SJanis.jpg"
-      ],
-      "tags": "reina santanas"
-    },
-    {
-      "nombre": "Monokuma Dangan",
-      "imagenes": [
-        "Cartas/Reinas/DMonokuma.jpg"
-      ],
-      "tags": "reina dangan mascota"
-    },
-    {
-      "nombre": "Josualia Borracha Dangan",
-      "imagenes": [
-        "Cartas/Reinas/DJosualia.jpg"
-      ],
-      "tags": "reina dangan josualia"
-    },
-    {
-      "nombre": "Ronika Joyería Dragart",
-      "imagenes": [
-        "Cartas/Reinas/DRonika.jpg"
-      ],
-      "tags": "reina dragart"
+      "tags": "reina boylove"
     },
     {
       "nombre": "Tamy Santanas",
@@ -1055,323 +1418,11 @@
       ]
     },
     {
-      "nombre": "Josualia Santanas",
+      "nombre": "Tania y Jauregui Santanas",
       "imagenes": [
-        "Cartas/Reinas/SJosualia.jpg"
-      ],
-      "tags": "reina santanas josualia"
-    },
-    {
-      "nombre": "Mirelle TND",
-      "imagenes": [
-        "Cartas/Reinas/TNDMirelle.jpg"
-      ],
-      "tags": "reina tnd"
-    },
-    {
-      "nombre": "Hkai Biz4rre",
-      "imagenes": [
-        "Cartas/Reinas/NBHkai.jpg"
-      ],
-      "tags": "reina biz4rre halloqueens"
-    },
-    {
-      "nombre": "Chucky y Tiffany Slasher",
-      "imagenes": [
-        "Cartas/Reinas/SChucky.jpg"
-      ],
-      "tags": "reina slasher"
-    },
-    {
-      "nombre": "Freddy Krueger Slasher",
-      "imagenes": [
-        "Cartas/Reinas/NSLFreddy.jpg"
-      ],
-      "tags": "reina slasher"
-    },
-    {
-      "nombre": "Ghostface Slasher",
-      "imagenes": [
-        "Cartas/Reinas/NSLGhost.jpg"
-      ],
-      "tags": "reina slasher",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "19/05/2026",
-          "nota": "Se remueve su efecto para que no pueda dominar tan fácilmente en reto de Comedia."
-        }
-      ]
-    },
-    {
-      "nombre": "Jason Slasher",
-      "imagenes": [
-        "Cartas/Reinas/SLJason.jpg"
-      ],
-      "tags": "reina slasher"
-    },
-    {
-      "nombre": "Michael Myers Slasher",
-      "imagenes": [
-        "Cartas/Reinas/SLMichael.jpg"
-      ],
-      "tags": "reina slasher"
-    },
-    {
-      "nombre": "Pearl SLASHER",
-      "imagenes": [
-        "Cartas/Reinas/SLPearl.jpg"
-      ],
-      "tags": "reina slasher santanas"
-    },
-    {
-      "nombre": "Fwoods Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGFwoods.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Toto Spears Dangan",
-      "imagenes": [
-        "Cartas/Reinas/DToto.jpg"
-      ],
-      "tags": "reina dangan ldr promo"
-    },
-    {
-      "nombre": "Evette y Blake Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HGEvette.jpg"
-      ],
-      "tags": "reina hogwarts slasher"
-    },
-    {
-      "nombre": "Hexora Santanas",
-      "imagenes": [
-        "Cartas/Reinas/SHexora.jpg"
+        "Cartas/Reinas/TJS.jpeg"
       ],
       "tags": "reina santanas"
-    },
-    {
-      "nombre": "Harmonie Silverstone Dangan",
-      "imagenes": [
-        "Cartas/Reinas/DHarmonie.jpg"
-      ],
-      "tags": "reina dangan"
-    },
-    {
-      "nombre": "Sandías Alienígena ASI",
-      "imagenes": [
-        "Cartas/Reinas/ASISandia.jpg"
-      ],
-      "tags": "reina asi"
-    },
-    {
-      "nombre": "Fatmama y Lebiggy ASI",
-      "imagenes": [
-        "Cartas/Reinas/NASIFat.jpg"
-      ],
-      "tags": "reina asi promo"
-    },
-    {
-      "nombre": "Garnet ASI",
-      "imagenes": [
-        "Cartas/Reinas/ASIGarnet.jpg"
-      ],
-      "tags": "reina asi promo sparkle"
-    },
-    {
-      "nombre": "Lady Grasa ASI",
-      "imagenes": [
-        "Cartas/Reinas/NASIGrasa.jpg"
-      ],
-      "tags": "reina asi promo"
-    },
-    {
-      "nombre": "Vitany ASI",
-      "imagenes": [
-        "Cartas/Reinas/ASIVitany.jpg"
-      ],
-      "tags": "reina asi promo"
-    },
-    {
-      "nombre": "Cris Herondale",
-      "imagenes": [
-        "Cartas/Reinas/HGCris.jpg"
-      ],
-      "tags": "reina hogwarts"
-    },
-    {
-      "nombre": "Heather Diallo",
-      "imagenes": [
-        "Cartas/Reinas/HWHeather.jpg"
-      ],
-      "tags": "reina hogwarts ldr noflawwz"
-    },
-    {
-      "nombre": "Caracol en la Piedra",
-      "imagenes": [
-        "Cartas/Reinas/PCaracol.jpg"
-      ],
-      "tags": "reina piedra mascosta"
-    },
-    {
-      "nombre": "Fósil de Piedra",
-      "imagenes": [
-        "Cartas/Reinas/PFosil.jpg"
-      ],
-      "tags": "reina piedra dragart"
-    },
-    {
-      "nombre": "Piedra de Río",
-      "imagenes": [
-        "Cartas/Reinas/PRio.jpg"
-      ],
-      "tags": "reina piedra"
-    },
-    {
-      "nombre": "Estalactita",
-      "imagenes": [
-        "Cartas/Reinas/PEstalactita.jpg"
-      ],
-      "tags": "reina piedra"
-    },
-    {
-      "nombre": "Piedra Pintada por Niños",
-      "imagenes": [
-        "Cartas/Reinas/PPintada.jpg"
-      ],
-      "tags": "reina piedra"
-    },
-    {
-      "nombre": "Flawwz Hogwarts",
-      "imagenes": [
-        "Cartas/Reinas/HWFlawwz.jpg"
-      ],
-      "tags": "reina hogwarts midnight faggs",
-      "notas": [
-        "Ruling: no se puede usar si está Verdimillious Hogwarts, Kuizantra Hogwarts o Heather Diallo en tu mazo."
-      ]
-    },
-    {
-      "nombre": "Fetito Bluthyd",
-      "imagenes": [
-        "Cartas/Reinas/SFetito.jpg"
-      ],
-      "tags": "reina heroe villana sparkle mascota"
-    },
-    {
-      "nombre": "Eva Cado Pride 🌈",
-      "imagenes": [
-        "Cartas/Reinas/PrideCado.jpg"
-      ],
-      "tags": "reina pride"
-    },
-    {
-      "nombre": "Lenya Kiki Pride 🌈",
-      "imagenes": [
-        "Cartas/Reinas/PrideLenya.jpg"
-      ],
-      "tags": "reina pride"
-    },
-    {
-      "nombre": "Patética Neon Pride 🌈",
-      "imagenes": [
-        "Cartas/Reinas/PridePatetica.jpg"
-      ],
-      "tags": "reina pride dragart"
-    },
-    {
-      "nombre": "Money Pride 🌈",
-      "imagenes": [
-        "Cartas/Reinas/PrideMoney.jpg"
-      ],
-      "tags": "reina pride biz4rre"
-    },
-    {
-      "nombre": "Lolita Pop Star Pride 🌈",
-      "imagenes": [
-        "Cartas/Reinas/PrideLolita.jpg"
-      ],
-      "tags": "reina pride"
-    },
-    {
-      "nombre": "Nefa Di Rossi",
-      "imagenes": [
-        "Cartas/Reinas/RossiNefa.jpg"
-      ],
-      "tags": "reina dirossi"
-    },
-    {
-      "nombre": "Sofred Di Rossi kkkk 🇧🇷",
-      "imagenes": [
-        "Cartas/Reinas/RossiSofred.jpg"
-      ],
-      "tags": "reina dirossi wasteus"
-    },
-    {
-      "nombre": "Alessia Di Rossi",
-      "imagenes": [
-        "Cartas/Reinas/RossiAlessia.jpg"
-      ],
-      "tags": "reina dirossi hollers"
-    },
-    {
-      "nombre": "Feliccia Di Rossi",
-      "imagenes": [
-        "Cartas/Reinas/RossiFeliccia.jpg"
-      ],
-      "tags": "reina dirossi"
-    },
-    {
-      "nombre": "Lenya La Niñera",
-      "imagenes": [
-        "Cartas/Reinas/DiscordLenya.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "Jhasielita Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordJhas.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "Alilita Tay Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordAlila.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "Bluthydcita Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordBlu.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "GARNETCITA Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordGarnet.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "Jaureguita Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordJau.jpg"
-      ],
-      "tags": "reina discord"
-    },
-    {
-      "nombre": "Lyoncito Lexus Discord",
-      "imagenes": [
-        "Cartas/Reinas/DiscordLyon.jpg"
-      ],
-      "tags": "reina discord"
     },
     {
       "nombre": "Taniacita ??? Discord",
@@ -1381,6 +1432,65 @@
       "tags": "reina discord"
     },
     {
+      "nombre": "Tess Tickles",
+      "imagenes": [
+        "Cartas/Reinas/Tess.jpeg"
+      ],
+      "tags": "reina tkd promo"
+    },
+    {
+      "nombre": "The NIGALS TQMix",
+      "imagenes": [
+        "Cartas/Reinas/MixNigals.jpg"
+      ],
+      "tags": "reina tqmix promo"
+    },
+    {
+      "nombre": "Toto Spears Dangan",
+      "imagenes": [
+        "Cartas/Reinas/DToto.jpg"
+      ],
+      "tags": "reina dangan ldr promo"
+    },
+    {
+      "nombre": "Trío de Cartoon",
+      "imagenes": [
+        "Cartas/Reinas/CTrio.jpg"
+      ],
+      "tags": "reina cartoon",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/04/2026",
+          "nota": "Ahora solo funciona con Gatadas usadas por el rival. Se añadió<br>un incremento máximo de +2 a una<br>sola estadística."
+        },
+        {
+          "tipo": "ajuste",
+          "fecha": "23/05/2026",
+          "nota": "Efecto reescrito para evitar confusiones."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Trío de Santanas",
+      "imagenes": [
+        "Cartas/Reinas/STrio.jpg"
+      ],
+      "tags": "reina santanas",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "04/05/2026",
+          "nota": "El nuevo efecto permite a Trío de Santanas interactuar más eficientemente con ‘Quiteo de Santanas’, proporcionando una ventaja decisiva al hacer uso de su mecánica principal."
+        }
+      ]
+    },
+    {
       "nombre": "Trisha Magdalena YTB",
       "imagenes": [
         "Cartas/Reinas/YTTrisha.jpg"
@@ -1388,23 +1498,71 @@
       "tags": "reina youtubible"
     },
     {
-      "nombre": "Dalas Diablo Psicópata YTB",
+      "nombre": "Uke Caliente BoyLove",
       "imagenes": [
-        "Cartas/Reinas/YTDalas.jpg"
+        "Cartas/Reinas/NBUke.jpg"
       ],
-      "tags": "reina youtubible"
+      "tags": "reina boylove",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "06/05/2026",
+          "nota": "Se añadió efecto de cambio de reto a actuación."
+        }
+      ]
+    },
+    {
+      "nombre": "Verdimillious Hogwarts",
+      "imagenes": [
+        "Cartas/Reinas/HGVerdi.jpg"
+      ],
+      "tags": "reina hogwarts"
+    },
+    {
+      "nombre": "Vestido Vanth",
+      "imagenes": [
+        "Cartas/Reinas/Vestido Vanth.jpg"
+      ],
+      "tags": "reina vanth"
+    },
+    {
+      "nombre": "Vitany ASI",
+      "imagenes": [
+        "Cartas/Reinas/ASIVitany.jpg"
+      ],
+      "tags": "reina asi promo"
+    },
+    {
+      "nombre": "Vitany Fighters Sparkle",
+      "imagenes": [
+        "Cartas/Reinas/NSVitany.jpg"
+      ],
+      "tags": "reina heroe sparkle promo",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió efecto para recibir VIH."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Vitany V",
+      "imagenes": [
+        "Cartas/Reinas/VitanyV.jpg",
+        "Cartas/Reinas/vitaALT.png"
+      ],
+      "tags": "reina vproduction"
     },
     {
       "nombre": "Windy La Mártir YTB",
       "imagenes": [
         "Cartas/Reinas/YTBWindy.jpg"
-      ],
-      "tags": "reina youtubible"
-    },
-    {
-      "nombre": "Divaza El Profeta YTB",
-      "imagenes": [
-        "Cartas/Reinas/YTDivaza.jpg"
       ],
       "tags": "reina youtubible"
     },
@@ -1416,184 +1574,21 @@
       "tags": "reina youtubible"
     },
     {
-      "nombre": "Clemont Trainer ⭐",
+      "nombre": "Yazmín Hogwarts",
       "imagenes": [
-        "Cartas/Reinas/BLClemont.jpg"
+        "Cartas/Reinas/VYazmin.jpg",
+        "Cartas/Reinas/YGIF.gif"
       ],
-      "tags": "reina heroe boylove sparkle"
-    },
-    {
-      "nombre": "Lechona",
-      "imagenes": [
-        "Cartas/Reinas/Lechona.jpg"
-      ],
-      "tags": "reina vproduction tnd ldr"
-    },
-    {
-      "nombre": "Saiki K BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Reinas/BLSaiki.jpg"
-      ],
-      "tags": "reina boylove midnight"
-    },
-    {
-      "nombre": "Piedra Turquesa",
-      "imagenes": [
-        "Cartas/Reinas/PiedraTurquesa.jpg"
-      ],
-      "tags": "reina piedra midnight"
-    },
-    {
-      "nombre": "Mannequin Bolsita de Papel",
-      "imagenes": [
-        "Cartas/Reinas/TNDPapel.jpg"
-      ],
-      "tags": "reina tnd"
-    },
-    {
-      "nombre": "Jauregui La Domadora",
-      "imagenes": [
-        "Cartas/Reinas/ASIJauregui.jpg"
-      ],
-      "tags": "reina santanas asi promo"
-    },
-    {
-      "nombre": "Aveztruza",
-      "imagenes": [
-        "Cartas/Reinas/MascotaAveztruza.jpg"
-      ],
-      "tags": "reina mascota"
-    },
-    {
-      "nombre": "Jeff The Killer",
-      "imagenes": [
-        "Cartas/Reinas/SLJeff.jpg"
-      ],
-      "tags": "reina cartoon slasher boylove"
-    },
-    {
-      "nombre": "Lysea y Su Burrito Sabanero",
-      "imagenes": [
-        "Cartas/Reinas/TQMixLysea.jpg"
-      ],
-      "tags": "reina tqmix"
-    },
-    {
-      "nombre": "Alerito Machu Picchu Ultimate Pet",
-      "imagenes": [
-        "Cartas/Reinas/DanganAlerito.jpg"
-      ],
-      "tags": "reina dangan"
-    },
-    {
-      "nombre": "Bluthyd Criatura Santanas",
-      "imagenes": [
-        "Cartas/Reinas/BluthydCriatura.jpg"
-      ],
-      "tags": "reina santanas"
+      "tags": "reina vanth hogwarts"
     }
   ],
   "gatadas": [
     {
-      "nombre": "Shenova Último Suspiro",
+      "nombre": "Activa Virus Biz4rre",
       "imagenes": [
-        "Cartas/Gatadas/Shenova.jpeg"
+        "Cartas/Gatadas/BActiva.jpg"
       ],
-      "tags": "gatada"
-    },
-    {
-      "nombre": "Vestido de la Discordia",
-      "imagenes": [
-        "Cartas/Gatadas/NNVestido.jpg"
-      ],
-      "tags": "gatada midnight vanth",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "13/05/2026",
-          "nota": "Al igual que otras cartas con efectos altamente restrictivos (véase Público Flop antes de su nerf), Vestido de la Discordia se había consolidado como una staple en múltiples mazos debido a su capacidad única de interactuar con la estadística de anulación, siendo la única carta capaz de anular estadísticas. Para reducir su consistencia sin eliminar su identidad, ahora su activación depende de un tiro de 1d100 (+50 para activar), limitando la frecuencia con la que su efecto puede resolverse de forma fiable en el metajuego."
-        }
-      ]
-    },
-    {
-      "nombre": "Perdón de Alerito",
-      "imagenes": [
-        "Cartas/Gatadas/Perdon.jpeg"
-      ],
-      "tags": "gatada midnight vanth tqmix"
-    },
-    {
-      "nombre": "Midnight Massacre",
-      "imagenes": [
-        "Cartas/Gatadas/MMassacre.jpg"
-      ],
-      "tags": "gatada midnight",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "24/05/2026",
-          "nota": "Ahora baja -4 puntos en una estadística si la Reina rival es Midnight."
-        }
-      ]
-    },
-    {
-      "nombre": "BOOT",
-      "imagenes": [
-        "Cartas/Gatadas/Boot.jpeg"
-      ],
-      "tags": "gatada midnight"
-    },
-    {
-      "nombre": "Sabotaje",
-      "imagenes": [
-        "Cartas/Gatadas/NSabotaje.jpg"
-      ],
-      "tags": "gatada midnight tqmix",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "05/05/2026",
-          "nota": "Sabotaje ofrecía una forma demasiado fácil de revertir la situación sin costo alguno, por lo que ahora es necesario <i>quemar</i> una Gatada para usarla y, a cambio, no puede ser negada por otras Gatadas."
-        }
-      ]
-    },
-    {
-      "nombre": "Peor Juez Bluthyd",
-      "imagenes": [
-        "Cartas/Gatadas/JBluthyd.jpeg"
-      ],
-      "tags": "gatada"
-    },
-    {
-      "nombre": "Defendiendo Mi Drak",
-      "imagenes": [
-        "Cartas/Gatadas/Drak.jpeg"
-      ],
-      "tags": "gatada tqmix"
-    },
-    {
-      "nombre": "Autovoto Final",
-      "imagenes": [
-        "Cartas/Gatadas/Final.jpeg"
-      ],
-      "tags": "gatada dangan vanth"
-    },
-    {
-      "nombre": "Reflejo de Dickved",
-      "imagenes": [
-        "Cartas/Gatadas/VDick.jpg"
-      ],
-      "tags": "gatada vanth"
-    },
-    {
-      "nombre": "Cacareo Burlón",
-      "imagenes": [
-        "Cartas/Gatadas/NCaca.jpg"
-      ],
-      "tags": "gatada tkd"
+      "tags": "gatada biz4rre"
     },
     {
       "nombre": "Ajustes de Costurera",
@@ -1611,11 +1606,18 @@
       ]
     },
     {
-      "nombre": "Shoot!",
+      "nombre": "Autovoto Final",
       "imagenes": [
-        "Cartas/Gatadas/Shoot.jpeg"
+        "Cartas/Gatadas/Final.jpeg"
       ],
-      "tags": "gatada midnight"
+      "tags": "gatada dangan vanth"
+    },
+    {
+      "nombre": "AVADA KEDAVRA",
+      "imagenes": [
+        "Cartas/Gatadas/HGAvada.jpg"
+      ],
+      "tags": "gatada hogwarts"
     },
     {
       "nombre": "Bechito Dorado",
@@ -1633,6 +1635,116 @@
       ]
     },
     {
+      "nombre": "BOOT",
+      "imagenes": [
+        "Cartas/Gatadas/Boot.jpeg"
+      ],
+      "tags": "gatada midnight"
+    },
+    {
+      "nombre": "Bruja Alila",
+      "imagenes": [
+        "Cartas/Gatadas/BrujaAlila.jpg"
+      ],
+      "tags": "gatada bruja",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bruja de La Calamidad",
+      "imagenes": [
+        "Cartas/Gatadas/NBruja.jpg"
+      ],
+      "tags": "gatada bruja",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "14/05/ 2026",
+          "nota": "Se fortalece su interacción contra Reinas con efecto. Anteriormente solo podía negar efectos activados; ahora directamente niega el efecto de la Reina rival y además le aplica -1, haciendo su impacto más constante y menos dependiente del timing de activación."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bruja Di Rossi",
+      "imagenes": [
+        "Cartas/Gatadas/RossiBruja.jpg"
+      ],
+      "tags": "gatada dirossi"
+    },
+    {
+      "nombre": "Bruja Eris",
+      "imagenes": [
+        "Cartas/Gatadas/BrujaEris.jpg"
+      ],
+      "tags": "gatada bruja",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "BurnBook Hogwarts",
+      "imagenes": [
+        "Cartas/Gatadas/HGBurn.jpg"
+      ],
+      "tags": "gatada hogwarts"
+    },
+    {
+      "nombre": "Cacareo Burlón",
+      "imagenes": [
+        "Cartas/Gatadas/NCaca.jpg"
+      ],
+      "tags": "gatada tkd",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Cacareo Burlón podía castigar únicamente aumentos provenientes de Gatadas, lo que dejaba fuera aquellos por efectos. Ahora, la carta se activará ante cualquier aumento de estadística, sin importar su origen."
+        }
+      ]
+    },
+    {
+      "nombre": "Cambio de Voz LDR",
+      "imagenes": [
+        "Cartas/Gatadas/CVLDR.jpeg"
+      ],
+      "tags": "gatada ldr"
+    },
+    {
+      "nombre": "Cincel y Martillo",
+      "imagenes": [
+        "Cartas/Gatadas/PCincel.jpg"
+      ],
+      "tags": "gatada piedra"
+    },
+    {
+      "nombre": "Clownkid",
+      "imagenes": [
+        "Cartas/Gatadas/MClown.jpg"
+      ],
+      "tags": "gatada midnight",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "06/05/2026",
+          "nota": "Junto a HERMANAS Midnight, Clownkid generaba una ventaja excesiva dentro del arquetipo Midnight, por lo que ahora reduce 2 puntos entre 2 estadísticas aleatorias."
+        }
+      ]
+    },
+    {
+      "nombre": "COCK Vanth TE PASASTE LDR",
+      "imagenes": [
+        "Cartas/Gatadas/LDRTepasaste.jpg"
+      ],
+      "tags": "gatada ldr"
+    },
+    {
       "nombre": "CONTRATO DE LDR",
       "imagenes": [
         "Cartas/Gatadas/LDRContrato.jpg"
@@ -1648,29 +1760,18 @@
       ]
     },
     {
-      "nombre": "Peor Juez KUINAZA",
+      "nombre": "Costurera White",
       "imagenes": [
-        "Cartas/Gatadas/JK.jpeg"
+        "Cartas/Gatadas/WCosturera.jpg"
       ],
-      "tags": "gatada midnight",
-      "notas": [
-        "Ruling: no cambia el reto."
-      ]
+      "tags": "gatada white"
     },
     {
-      "nombre": "Muerteris",
+      "nombre": "Cuchillos Slasher",
       "imagenes": [
-        "Cartas/Gatadas/NMuerteris.jpg"
+        "Cartas/Gatadas/SLCuchillos.jpg"
       ],
-      "tags": "gatada dangan",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "08/05/2026",
-          "nota": "Ahora el debuff de estadísticas no afecta a la estrategia Dangan."
-        }
-      ]
+      "tags": "gatada slasher"
     },
     {
       "nombre": "Dando Comedia",
@@ -1678,6 +1779,211 @@
         "Cartas/Gatadas/Dando.jpeg"
       ],
       "tags": "gatada tnd"
+    },
+    {
+      "nombre": "Dawn Fuego Remix Hediondo Santanas",
+      "imagenes": [
+        "Cartas/Gatadas/DFR1.jpg"
+      ],
+      "tags": "gatada santanas",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "25/04/2026",
+          "nota": "Para evitar números decimales, si el resultado es impar, se realiza una tirada de 1d2 que reduce 1 o 2 puntos de una estadística."
+        }
+      ]
+    },
+    {
+      "nombre": "Defendiendo Mi Drak",
+      "imagenes": [
+        "Cartas/Gatadas/Drak.jpeg"
+      ],
+      "tags": "gatada tqmix"
+    },
+    {
+      "nombre": "Frenesí TQM",
+      "imagenes": [
+        "Cartas/Gatadas/MixFrenesi.jpg"
+      ],
+      "tags": "gatada tqmix",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "08/05/2026",
+          "nota": "Frenesí TQM dependía demasiado de la Reina rival para obtener valor completo, por lo que ahora se enfoca en potenciar jugadas TQMix propias al permitir reorganizar todos los stats de tu Reina."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Gatitos Medicina",
+      "imagenes": [
+        "Cartas/Gatadas/Gatitos Medicina.jpeg"
+      ],
+      "tags": "gatada mascota"
+    },
+    {
+      "nombre": "Helicóptero de Josualia",
+      "imagenes": [
+        "Cartas/Gatadas/NJHeli.jpg"
+      ],
+      "tags": "gatada josualia",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "13/05/2026",
+          "nota": "Helicóptero de Josualia fue ajustada para que pueda generar valor incluso sin depender completamente de que una Gatada sea anulada. Además, ahora recompensa las Gatadas quemadas (fallidas) con un +1 extra, permitiendo convertir jugadas sin impacto o situaciones de baja utilidad en presión estadística más consistente."
+        }
+      ]
+    },
+    {
+      "nombre": "Heroína o Villana Sparkle",
+      "imagenes": [
+        "Cartas/Gatadas/SHeroe.jpg"
+      ],
+      "tags": "gatada sparkle",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Horrores de Cartoon",
+      "imagenes": [
+        "Cartas/Gatadas/CHorrores.jpg"
+      ],
+      "tags": "gatada cartoon vanth"
+    },
+    {
+      "nombre": "Huevito con Catsup BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Gatadas/NBHuevito.jpg"
+      ],
+      "tags": "gatada boylove",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "06/05/2026",
+          "nota": "Ahora también cambia el reto."
+        }
+      ]
+    },
+    {
+      "nombre": "Icono de la Paz Josualia",
+      "imagenes": [
+        "Cartas/Gatadas/JPaz.jpg"
+      ],
+      "tags": "gatada josualia"
+    },
+    {
+      "nombre": "Kakegurui Masho",
+      "imagenes": [
+        "Cartas/Gatadas/Kakegurui.jpg"
+      ],
+      "tags": "gatada"
+    },
+    {
+      "nombre": "Lágrimas de BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Gatadas/NBLagrimas.jpg"
+      ],
+      "tags": "gatada boylove",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "13/05/2026",
+          "nota": "Ahora tanto las Gatadas como las Escenas cuentan para la cantidad total que se reducirá en una estadística."
+        }
+      ]
+    },
+    {
+      "nombre": "Lágrimas de la negrita",
+      "imagenes": [
+        "Cartas/Gatadas/Lagrimas.jpeg"
+      ],
+      "tags": "gatada midnight"
+    },
+    {
+      "nombre": "Lenya de La Discordia",
+      "imagenes": [
+        "Cartas/Gatadas/ShadeDiscordia.jpg"
+      ],
+      "tags": "gatada discord"
+    },
+    {
+      "nombre": "Lenya La Traidora",
+      "imagenes": [
+        "Cartas/Gatadas/LenyaTraidora.jpg"
+      ],
+      "tags": "gatada discord"
+    },
+    {
+      "nombre": "Lenya Monja Discord",
+      "imagenes": [
+        "Cartas/Gatadas/ShadeMonja.jpg"
+      ],
+      "tags": "gatada discord"
+    },
+    {
+      "nombre": "Lupita TikTok",
+      "imagenes": [
+        "Cartas/Gatadas/NLupita.jpg"
+      ],
+      "tags": "gatada",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se quitó la tirada de dado como condición de activación. La Reina que se intercambie no activará su efecto."
+        }
+      ]
+    },
+    {
+      "nombre": "Malvaviscos V",
+      "imagenes": [
+        "Cartas/Gatadas/MalvaV.jpg"
+      ],
+      "tags": "gatada vproduction"
+    },
+    {
+      "nombre": "MasterMind Enoshima Junko",
+      "imagenes": [
+        "Cartas/Gatadas/DJunko.jpg"
+      ],
+      "tags": "gatada dangan"
+    },
+    {
+      "nombre": "Médula Tributo Halloqueens",
+      "imagenes": [
+        "Cartas/Gatadas/HMedula.jpg"
+      ],
+      "tags": "gatada halloqueens",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Midnight Massacre",
+      "imagenes": [
+        "Cartas/Gatadas/MMassacre.jpg"
+      ],
+      "tags": "gatada midnight",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Ahora baja -4 puntos en una estadística si la Reina rival es Midnight."
+        }
+      ]
     },
     {
       "nombre": "MISSGENDER de Jaureguí TKD",
@@ -1723,8 +2029,71 @@
         }
       ],
       "notas": [
-        "Ruling: si no existe una última Gatada rival usada, entonces solo se activará el efecto de bajar una estadística a 0."
+        ""
       ]
+    },
+    {
+      "nombre": "Muerta De La Risa",
+      "imagenes": [
+        "Cartas/Gatadas/TNDMuerta.jpg"
+      ],
+      "tags": "gatada tnd"
+    },
+    {
+      "nombre": "Muerteris",
+      "imagenes": [
+        "Cartas/Gatadas/NMuerteris.jpg"
+      ],
+      "tags": "gatada dangan",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "08/05/2026",
+          "nota": "Ahora el debuff de estadísticas no afecta a la estrategia Dangan."
+        }
+      ]
+    },
+    {
+      "nombre": "Muro de Stickers Pride",
+      "imagenes": [
+        "Cartas/Gatadas/PrideMuro.jpg"
+      ],
+      "tags": "gatada pride",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Nave PNG Onírica ASI",
+      "imagenes": [
+        "Cartas/Gatadas/ASINave.jpg"
+      ],
+      "tags": "gatada asi"
+    },
+    {
+      "nombre": "Noche DISCO TQMix",
+      "imagenes": [
+        "Cartas/Gatadas/MixNoche.jpg"
+      ],
+      "tags": "gatada tqmix",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Only BoyLoves",
+      "imagenes": [
+        "Cartas/Gatadas/BLOnly.jpg"
+      ],
+      "tags": "gatada boylove"
+    },
+    {
+      "nombre": "Parejita de Mascotas",
+      "imagenes": [
+        "Cartas/Gatadas/MParejita.jpg"
+      ],
+      "tags": "gatada mascota"
     },
     {
       "nombre": "Patética Te Humilla",
@@ -1734,90 +2103,35 @@
       "tags": "gatada dragart"
     },
     {
-      "nombre": "Frenesí TQM",
+      "nombre": "Paulis Queen Asustada",
       "imagenes": [
-        "Cartas/Gatadas/MixFrenesi.jpg"
+        "Cartas/Gatadas/DPaulis.jpg"
       ],
-      "tags": "gatada tqmix",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "08/05/2026",
-          "nota": "Frenesí TQM dependía demasiado de la Reina rival para obtener valor completo, por lo que ahora se enfoca en potenciar jugadas TQMix propias al permitir reorganizar todos los stats de tu Reina."
-        }
-      ],
-      "notas": [
-        "Ruling: cuenta como TQMix."
-      ]
+      "tags": "gatada dangan"
     },
     {
-      "nombre": "Ultimate Revelation Dangan",
+      "nombre": "Peor Juez Bluthyd",
       "imagenes": [
-        "Cartas/Gatadas/URD2.jpg"
+        "Cartas/Gatadas/JBluthyd.jpeg"
       ],
-      "tags": "gatada dangan",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "24/04/2026",
-          "nota": "Ahora convierte a la Reina rival en Dangan para contrarrestar ciertas estrategias."
-        }
-      ],
-      "notas": [
-        "Ruling: no elimina los tipos existentes de la Reina rival."
-      ]
+      "tags": "gatada"
     },
     {
-      "nombre": "Scoot!",
+      "nombre": "Peor Juez KUINAZA",
       "imagenes": [
-        "Cartas/Gatadas/Scoot.jpeg"
-      ],
-      "tags": "gatada midnight"
-    },
-    {
-      "nombre": "Lágrimas de la negrita",
-      "imagenes": [
-        "Cartas/Gatadas/Lagrimas.jpeg"
-      ],
-      "tags": "gatada midnight"
-    },
-    {
-      "nombre": "Clownkid",
-      "imagenes": [
-        "Cartas/Gatadas/MClown.jpg"
+        "Cartas/Gatadas/JK.jpeg"
       ],
       "tags": "gatada midnight",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "06/05/2026",
-          "nota": "Junto a HERMANAS Midnight, Clownkid generaba una ventaja excesiva dentro del arquetipo Midnight, por lo que ahora reduce 2 puntos entre 2 estadísticas aleatorias."
-        }
+      "notas": [
+        ""
       ]
     },
     {
-      "nombre": "Team MANITAS",
+      "nombre": "Perdón de Alerito",
       "imagenes": [
-        "Cartas/Gatadas/Mani.jpeg"
+        "Cartas/Gatadas/Perdon.jpeg"
       ],
-      "tags": "gatada tqmix"
-    },
-    {
-      "nombre": "Cambio de Voz LDR",
-      "imagenes": [
-        "Cartas/Gatadas/CVLDR.jpeg"
-      ],
-      "tags": "gatada ldr"
-    },
-    {
-      "nombre": "Perrito Mesero",
-      "imagenes": [
-        "Cartas/Gatadas/Perrito Mesero.jpeg"
-      ],
-      "tags": "gatada white"
+      "tags": "gatada midnight vanth tqmix"
     },
     {
       "nombre": "Perrito Barista",
@@ -1834,166 +2148,18 @@
       "tags": "gatada white"
     },
     {
-      "nombre": "Gatitos Medicina",
+      "nombre": "Perrito Mesero",
       "imagenes": [
-        "Cartas/Gatadas/Gatitos Medicina.jpeg"
+        "Cartas/Gatadas/Perrito Mesero.jpeg"
       ],
       "tags": "gatada white"
     },
     {
-      "nombre": "Dawn Fuego Remix Hediondo Santanas",
+      "nombre": "Piedras Preciosas",
       "imagenes": [
-        "Cartas/Gatadas/DFR1.jpg"
+        "Cartas/Gatadas/PPreciosas.jpg"
       ],
-      "tags": "gatada santanas",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "25/04/2026",
-          "nota": "Para evitar números decimales, si el resultado es impar, se realiza una tirada de 1d2 que reduce 1 o 2 puntos de una estadística."
-        }
-      ]
-    },
-    {
-      "nombre": "Malvaviscos  V",
-      "imagenes": [
-        "Cartas/Gatadas/MalvaV.jpg"
-      ],
-      "tags": "gatada vproduction"
-    },
-    {
-      "nombre": "PutiPamela V",
-      "imagenes": [
-        "Cartas/Gatadas/PutiV.jpg"
-      ],
-      "tags": "gatada vproduction"
-    },
-    {
-      "nombre": "Icono de la Paz Josualia",
-      "imagenes": [
-        "Cartas/Gatadas/JPaz.jpg"
-      ],
-      "tags": "gatada josualia"
-    },
-    {
-      "nombre": "Médula Tributo Halloqueens",
-      "imagenes": [
-        "Cartas/Gatadas/HMedula.jpg"
-      ],
-      "tags": "gatada halloqueens",
-      "notas": [
-        "Ruling: todas las estadísticas deben cambiarse de lugar."
-      ]
-    },
-    {
-      "nombre": "Costurera White",
-      "imagenes": [
-        "Cartas/Gatadas/WCosturera.jpg"
-      ],
-      "tags": "gatada white"
-    },
-    {
-      "nombre": "TELEVISIÓN SPARKLE",
-      "imagenes": [
-        "Cartas/Gatadas/NNSTelevision.jpg"
-      ],
-      "tags": "gatada sparkle",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "13/05/2026",
-          "nota": "Se simplifica su efecto, eliminando la tirada de 1d100. Ahora permite reciclar Heroína o Villana Sparkle en un turno en el que no haya sido usada, reduciendo la dependencia de RNG y haciendo su efecto más consistente y directo en el uso de recursos."
-        }
-      ]
-    },
-    {
-      "nombre": "Heroína o Villana Sparkle",
-      "imagenes": [
-        "Cartas/Gatadas/SHeroe.jpg"
-      ],
-      "tags": "gatada sparkle",
-      "notas": [
-        "Ruling: si la Reina es de ambos tipos, recibe las dos Armas/Tokens correspondientes."
-      ]
-    },
-    {
-      "nombre": "Bruja de La Calamidad",
-      "imagenes": [
-        "Cartas/Gatadas/NBruja.jpg"
-      ],
-      "tags": "gatada bruja",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "14/05/ 2026",
-          "nota": "Se fortalece su interacción contra Reinas con efecto. Anteriormente solo podía negar efectos activados; ahora directamente niega el efecto de la Reina rival y además le aplica -1, haciendo su impacto más constante y menos dependiente del timing de activación."
-        }
-      ]
-    },
-    {
-      "nombre": "Tornado Acapulqueño",
-      "imagenes": [
-        "Cartas/Gatadas/Tornado.jpg"
-      ],
-      "tags": "gatada cartoon"
-    },
-    {
-      "nombre": "Subida de Tono BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Gatadas/NBSubida.jpg"
-      ],
-      "tags": "gatada boylove",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "06/05/2026",
-          "nota": "Se ha <i>reworkeado</i> la carta para seguir la línea de cambio de reto. El segundo efecto ahora baja 2 puntos de estadística si la Reina rival es mujer."
-        }
-      ],
-      "notas": [
-        "Ruling: el primer y segundo efecto de la Gatada son independientes uno del otro."
-      ]
-    },
-    {
-      "nombre": "Huevito con Catsup BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Gatadas/NBHuevito.jpg"
-      ],
-      "tags": "gatada boylove",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "06/05/2026",
-          "nota": "Ahora también cambia el reto."
-        }
-      ]
-    },
-    {
-      "nombre": "Lágrimas de BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Gatadas/NBLagrimas.jpg"
-      ],
-      "tags": "gatada boylove",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "13/05/2026",
-          "nota": "Ahora tanto las Gatadas como las Escenas cuentan para la cantidad total que se reducirá en una estadística."
-        }
-      ]
-    },
-    {
-      "nombre": "Tres Cochinitos V",
-      "imagenes": [
-        "Cartas/Gatadas/VTres.jpg"
-      ],
-      "tags": "gatada vproduction"
+      "tags": "gatada piedra"
     },
     {
       "nombre": "Poción Amortentia Hogwarts",
@@ -2026,79 +2192,68 @@
       ]
     },
     {
-      "nombre": "Helicóptero de Josualia",
+      "nombre": "PutiPamela V",
       "imagenes": [
-        "Cartas/Gatadas/NJHeli.jpg"
+        "Cartas/Gatadas/PutiV.jpg"
       ],
-      "tags": "gatada josualia",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "13/05/2026",
-          "nota": "Helicóptero de Josualia fue ajustada para que pueda generar valor incluso sin depender completamente de que una Gatada sea anulada. Además, ahora recompensa las Gatadas quemadas (fallidas) con un +1 extra, permitiendo convertir jugadas sin impacto o situaciones de baja utilidad en presión estadística más consistente."
-        }
-      ]
+      "tags": "gatada vproduction"
     },
     {
-      "nombre": "Noche DISCO TQMix",
+      "nombre": "Reflejo de Dickved",
       "imagenes": [
-        "Cartas/Gatadas/MixNoche.jpg"
+        "Cartas/Gatadas/VDick.jpg"
       ],
-      "tags": "gatada tqmix",
-      "notas": [
-        "Descripción alternativa: Ambas tiran 5d3. Dependiendo de cuántos números se hayan repetido del 1 al 3, es lo que se bajan en cada categoría.Prompt sugerido: Tira 3d5 en orden del menor al mayor."
-      ]
-    },
-    {
-      "nombre": "COCK Vanth TE PASASTE LDR",
-      "imagenes": [
-        "Cartas/Gatadas/LDRTepasaste.jpg"
-      ],
-      "tags": "gatada ldr"
-    },
-    {
-      "nombre": "AVADA KEDAVRA",
-      "imagenes": [
-        "Cartas/Gatadas/HGAvada.jpg"
-      ],
-      "tags": "gatada hogwarts"
-    },
-    {
-      "nombre": "VIH",
-      "imagenes": [
-        "Cartas/Gatadas/NVIH.jpg"
-      ],
-      "tags": "gatada",
+      "tags": "gatada vanth",
       "balance": "nerf",
       "historial": [
         {
           "tipo": "nerf",
           "fecha": "24/05/2026",
-          "nota": "Para evitar que VIH se use como activador de otras Gatadas o efectos, esta carta ya no puede ser quemada como costo de activación."
+          "nota": "Si bien Reflejo de Dickved podía contrarrestar estrategias basadas en el aumento y reducción de estadísticas, su uso reiterado en el metajuego la convirtió en una amenaza latente que muchos jugadores debían considerar al momento de construir sus mazos, limitando la creatividad y generando un entorno competitivo tóxico. Ahora, su efecto permite copiar una estadística rival, manteniendo su propósito original, pero de una forma menos agresiva."
         }
       ]
     },
     {
-      "nombre": "BurnBook Hogwarts",
+      "nombre": "Rosa de Inmunidad Dragart",
       "imagenes": [
-        "Cartas/Gatadas/HGBurn.jpg"
+        "Cartas/Gatadas/RID3.jpeg"
       ],
-      "tags": "gatada hogwarts"
+      "tags": "gatada dragart",
+      "balance": "ban",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "25/04/2026",
+          "nota": "Debido a su alta versatilidad en múltiples mazos, negar una Gatada ahora reduce 2 estadísticas a 0. Se elimina el efecto de mostrar escena. Otros mazos pueden seguir usándola, pero asumiendo este coste; Dragart ignora la penalización."
+        },
+        {
+          "tipo": "ban",
+          "fecha": "09/05/2026",
+          "nota": "A pesar de haber aumentado su coste de activación, Rosa de Inmunidad Dragart continuó utilizándose como un negador genérico en múltiples mazos, además de reforzar estrategias centradas en Reinas con efecto y combinaciones con Haus of Vanth, carta que también terminó limitada debido a su uso reiterado fuera de su arquetipo original. Para evitar restringir la creatividad en la construcción de mazos y reducir la toxicidad dentro del entorno competitivo, Rosa de Inmunidad Dragart se convierte en la primera carta baneada del formato."
+        }
+      ]
     },
     {
-      "nombre": "SILENCIO DE LAS MANTECAS",
+      "nombre": "Sabotaje",
       "imagenes": [
-        "Cartas/Gatadas/TKDMantecas.jpg"
+        "Cartas/Gatadas/NSabotaje.jpg"
       ],
-      "tags": "gatada tkd"
+      "tags": "gatada tqmix",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "05/05/2026",
+          "nota": "Sabotaje ofrecía una forma demasiado fácil de revertir la situación sin costo alguno, por lo que ahora es necesario <i>quemar</i> una Gatada para usarla y, a cambio, no puede ser negada por otras Gatadas."
+        }
+      ]
     },
     {
-      "nombre": "Horrores de Cartoon",
+      "nombre": "Scoot!",
       "imagenes": [
-        "Cartas/Gatadas/CHorrores.jpg"
+        "Cartas/Gatadas/Scoot.jpeg"
       ],
-      "tags": "gatada cartoon vanth"
+      "tags": "gatada midnight"
     },
     {
       "nombre": "Sentimiento Original Kogarashi",
@@ -2108,33 +2263,64 @@
       "tags": "gatada"
     },
     {
-      "nombre": "Lupita TikTok",
+      "nombre": "Shenova Último Suspiro",
       "imagenes": [
-        "Cartas/Gatadas/NLupita.jpg"
+        "Cartas/Gatadas/Shenova.jpeg"
       ],
-      "tags": "gatada",
-      "balance": "buff",
+      "tags": "gatada"
+    },
+    {
+      "nombre": "Shoot!",
+      "imagenes": [
+        "Cartas/Gatadas/Shoot.jpeg"
+      ],
+      "tags": "gatada midnight"
+    },
+    {
+      "nombre": "SIDOSO FOR U",
+      "imagenes": [
+        "Cartas/Gatadas/Sidoso.jpg"
+      ],
+      "tags": "gatada"
+    },
+    {
+      "nombre": "SILENCIO DE LAS MANTECAS",
+      "imagenes": [
+        "Cartas/Gatadas/TKDMantecas.jpg"
+      ],
+      "tags": "gatada tkd"
+    },
+    {
+      "nombre": "Smash Disco Ball Pride 🌈",
+      "imagenes": [
+        "Cartas/Gatadas/PrideSmash.jpg"
+      ],
+      "tags": "gatada pride"
+    },
+    {
+      "nombre": "Subida de Tono BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Gatadas/NBSubida.jpg"
+      ],
+      "tags": "gatada boylove",
+      "balance": "ajuste",
       "historial": [
         {
-          "tipo": "buff",
-          "fecha": "24/05/2026",
-          "nota": "Se quitó la tirada de dado como condición de activación. La Reina que se intercambie no activará su efecto."
+          "tipo": "ajuste",
+          "fecha": "06/05/2026",
+          "nota": "Se ha <i>reworkeado</i> la carta para seguir la línea de cambio de reto. El segundo efecto ahora baja 2 puntos de estadística si la Reina rival es mujer."
         }
+      ],
+      "notas": [
+        ""
       ]
     },
     {
-      "nombre": "Activa Virus Biz4rre",
+      "nombre": "Sushi La Secretaria LDR",
       "imagenes": [
-        "Cartas/Gatadas/BActiva.jpg"
+        "Cartas/Gatadas/LDRSushi.jpg"
       ],
-      "tags": "gatada biz4rre"
-    },
-    {
-      "nombre": "Troleada Biz4rre",
-      "imagenes": [
-        "Cartas/Gatadas/NBTrol.jpg"
-      ],
-      "tags": "gatada biz4rre"
+      "tags": "gatada ldr"
     },
     {
       "nombre": "Tabla de Santanas",
@@ -2152,122 +2338,60 @@
       ]
     },
     {
-      "nombre": "Cuchillos Slasher",
+      "nombre": "Team MANITAS",
       "imagenes": [
-        "Cartas/Gatadas/SLCuchillos.jpg"
+        "Cartas/Gatadas/Mani.jpeg"
       ],
-      "tags": "gatada slasher"
+      "tags": "gatada tqmix"
     },
     {
-      "nombre": "Sushi La Secretaria LDR",
+      "nombre": "TELEVISIÓN SPARKLE",
       "imagenes": [
-        "Cartas/Gatadas/LDRSushi.jpg"
+        "Cartas/Gatadas/NNSTelevision.jpg"
       ],
-      "tags": "gatada ldr"
-    },
-    {
-      "nombre": "Paulis Queen Asustada",
-      "imagenes": [
-        "Cartas/Gatadas/DPaulis.jpg"
-      ],
-      "tags": "gatada dangan"
-    },
-    {
-      "nombre": "Nave PNG Onírica ASI",
-      "imagenes": [
-        "Cartas/Gatadas/ASINave.jpg"
-      ],
-      "tags": "gatada asi"
-    },
-    {
-      "nombre": "Bruja Eris",
-      "imagenes": [
-        "Cartas/Gatadas/BrujaEris.jpg"
-      ],
-      "tags": "gatada bruja",
-      "notas": [
-        "Ruling: solo se puede llevar una carta tipo Bruja en el mazo."
+      "tags": "gatada sparkle",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "13/05/2026",
+          "nota": "Se simplifica su efecto, eliminando la tirada de 1d100. Ahora permite reciclar Heroína o Villana Sparkle en un turno en el que no haya sido usada, reduciendo la dependencia de RNG y haciendo su efecto más consistente y directo en el uso de recursos."
+        },
+        {
+          "tipo": "buff",
+          "fecha": "23/05/2026",
+          "nota": "Sin ningún tipo de límite, ahora es posible utilizar Heroína o Villana Sparkle dos veces en la misma ronda gracias al efecto de reciclaje de TELEVISIÓN SPARKLE."
+        }
       ]
     },
     {
-      "nombre": "Bruja Alila",
+      "nombre": "Tornado Acapulqueño",
       "imagenes": [
-        "Cartas/Gatadas/BrujaAlila.jpg"
+        "Cartas/Gatadas/Tornado.jpg"
       ],
-      "tags": "gatada bruja",
-      "notas": [
-        "Ruling: solo se puede llevar una carta tipo Bruja en el mazo."
+      "tags": "gatada cartoon"
+    },
+    {
+      "nombre": "Tres Cochinitos V",
+      "imagenes": [
+        "Cartas/Gatadas/VTres.jpg"
+      ],
+      "tags": "gatada vproduction"
+    },
+    {
+      "nombre": "Troleada Biz4rre",
+      "imagenes": [
+        "Cartas/Gatadas/NBTrol.jpg"
+      ],
+      "tags": "gatada biz4rre",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "15/05/2026",
+          "nota": "Ahora solo activa si hay una Reina Biz4rre en el mazo."
+        }
       ]
-    },
-    {
-      "nombre": "Parejita de Mascotas",
-      "imagenes": [
-        "Cartas/Gatadas/MParejita.jpg"
-      ],
-      "tags": "gatada mascota"
-    },
-    {
-      "nombre": "Piedras Preciosas",
-      "imagenes": [
-        "Cartas/Gatadas/PPreciosas.jpg"
-      ],
-      "tags": "gatada piedra"
-    },
-    {
-      "nombre": "Cincel y Martillo",
-      "imagenes": [
-        "Cartas/Gatadas/PCincel.jpg"
-      ],
-      "tags": "gatada piedra"
-    },
-    {
-      "nombre": "Kakegurui Masho",
-      "imagenes": [
-        "Cartas/Gatadas/Kakegurui.jpg"
-      ],
-      "tags": "gatada"
-    },
-    {
-      "nombre": "SIDOSO FOR U",
-      "imagenes": [
-        "Cartas/Gatadas/Sidoso.jpg"
-      ],
-      "tags": "gatada"
-    },
-    {
-      "nombre": "Lenya La Traidora",
-      "imagenes": [
-        "Cartas/Gatadas/LenyaTraidora.jpg"
-      ],
-      "tags": "gatada discord"
-    },
-    {
-      "nombre": "MasterMind Enoshima Junko",
-      "imagenes": [
-        "Cartas/Gatadas/DJunko.jpg"
-      ],
-      "tags": "gatada dangan"
-    },
-    {
-      "nombre": "Smash Disco Ball Pride 🌈",
-      "imagenes": [
-        "Cartas/Gatadas/PrideSmash.jpg"
-      ],
-      "tags": "gatada pride"
-    },
-    {
-      "nombre": "Muro de Stickers Pride",
-      "imagenes": [
-        "Cartas/Gatadas/PrideMuro.jpg"
-      ],
-      "tags": "gatada pride"
-    },
-    {
-      "nombre": "Lenya Monja Discord",
-      "imagenes": [
-        "Cartas/Gatadas/ShadeMonja.jpg"
-      ],
-      "tags": "gatada discord"
     },
     {
       "nombre": "Tumba De Lenya Discord",
@@ -2277,18 +2401,52 @@
       "tags": "gatada discord"
     },
     {
-      "nombre": "Lenya de La Discordia",
+      "nombre": "Ultimate Revelation Dangan",
       "imagenes": [
-        "Cartas/Gatadas/ShadeDiscordia.jpg"
+        "Cartas/Gatadas/URD2.jpg"
       ],
-      "tags": "gatada discord"
+      "tags": "gatada dangan",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "24/04/2026",
+          "nota": "Ahora convierte a la Reina rival en Dangan para contrarrestar ciertas estrategias."
+        }
+      ],
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Bruja Di Rossi",
+      "nombre": "Vestido de la Discordia",
       "imagenes": [
-        "Cartas/Gatadas/RossiBruja.jpg"
+        "Cartas/Gatadas/NNVestido.jpg"
       ],
-      "tags": "gatada dirossi"
+      "tags": "gatada midnight vanth",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "13/05/2026",
+          "nota": "Al igual que otras cartas con efectos altamente restrictivos (véase Público Flop antes de su nerf), Vestido de la Discordia se había consolidado como una staple en múltiples mazos debido a su capacidad única de interactuar con la estadística de bloqueo, siendo la única carta capaz de bloquear estadísticas. Para reducir su consistencia sin eliminar su identidad, ahora su activación depende de un tiro de 1d100 (+50 para activar), limitando la frecuencia con la que su efecto puede resolverse de forma fiable en el metajuego."
+        }
+      ]
+    },
+    {
+      "nombre": "VIH",
+      "imagenes": [
+        "Cartas/Gatadas/NVIH.jpg"
+      ],
+      "tags": "gatada",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "24/05/2026",
+          "nota": "Para evitar que VIH se use como activador de otras Gatadas o efectos, esta carta ya no puede ser quemada como costo de activación."
+        }
+      ]
     },
     {
       "nombre": "Yuya El Espíritu Santo",
@@ -2296,68 +2454,63 @@
         "Cartas/Gatadas/YTYuya.jpg"
       ],
       "tags": "gatada youtubible"
-    },
-    {
-      "nombre": "Only BoyLoves",
-      "imagenes": [
-        "Cartas/Gatadas/BLOnly.jpg"
-      ],
-      "tags": "gatada boylove"
-    },
-    {
-      "nombre": "Muerta De La Risa",
-      "imagenes": [
-        "Cartas/Gatadas/TNDMuerta.jpg"
-      ],
-      "tags": "gatada tnd"
     }
   ],
   "escenas": [
     {
-      "nombre": "Remix TQM",
+      "nombre": "Amigo Fiel",
       "imagenes": [
-        "Cartas/Escenas/MixRemix.jpg"
+        "Cartas/Escenas/AF.jpeg"
       ],
-      "tags": "escena tqmix",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "08/05/2026",
-          "nota": "Remix TQM ahora aprovecha mejor el mazo TQMix al permitir adaptar el reto a la categoría más favorable para tu Reina y alterar los stats rivales, dándole un uso más flexible y dinámico."
-        }
-      ],
+      "tags": "escena mascota",
       "notas": [
-        "Ruling: cuenta como TQMix."
+        ""
       ]
     },
     {
-      "nombre": "Corona de Lolitas  Drag Race",
+      "nombre": "Asesino de la semana",
       "imagenes": [
-        "Cartas/Escenas/NCorona.jpg"
+        "Cartas/Escenas/Ase.jpeg"
       ],
-      "tags": "escena ldr"
+      "tags": "escena halloqueens"
     },
     {
-      "nombre": "Persecución",
+      "nombre": "BALL DE DRAGART",
       "imagenes": [
-        "Cartas/Escenas/NNPersecusion.jpg"
+        "Cartas/Escenas/DBall.jpg"
       ],
-      "tags": "escena vanth",
-      "balance": "buff"
+      "tags": "escena dragart",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "GAGA THE MUSICAL",
+      "nombre": "Campo Sparkle",
       "imagenes": [
-        "Cartas/Escenas/LDRGaga.jpg"
+        "Cartas/Escenas/NSCampo.jpg"
       ],
-      "tags": "escena ldr",
+      "tags": "escena sparkle",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "05/05/2026",
+          "nota": "Ahora reduce 1 punto de estadística menos; un ligero balance de poder al mazo."
+        }
+      ]
+    },
+    {
+      "nombre": "Canto de Cartoon",
+      "imagenes": [
+        "Cartas/Escenas/NCCanto.jpg"
+      ],
+      "tags": "escena cartoon",
       "balance": "buff",
       "historial": [
         {
           "tipo": "buff",
-          "fecha": "08/05/2026",
-          "nota": "GAGA THE MUSICAL ofrecía un cambio de reto demasiado específico, por lo que ahora se enfoca en generar presión sostenida sobre los stats rivales, especialmente dentro de estrategias LDR."
+          "fecha": "19/05/2026",
+          "nota": "Ahora las Reinas Cartoon ganan +2 en un stat al anularse su efecto, además de tener la posibilidad de obtener un +1 extra mediante una tirada aleatoria."
         }
       ]
     },
@@ -2377,6 +2530,109 @@
       ]
     },
     {
+      "nombre": "Castillo de Piedra",
+      "imagenes": [
+        "Cartas/Escenas/PCastillo.jpg"
+      ],
+      "tags": "escena piedra"
+    },
+    {
+      "nombre": "CONFESIÓN BOYLOVE 🩷",
+      "imagenes": [
+        "Cartas/Escenas/BConfesion.jpg"
+      ],
+      "tags": "escena boylove"
+    },
+    {
+      "nombre": "Coro Cartoon",
+      "imagenes": [
+        "Cartas/Escenas/Coro.jpeg"
+      ],
+      "tags": "escena cartoon",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/04/2026",
+          "nota": "Se cambió el efecto: antes daba +1 a todas las estadísticas; ahora solo aplica a una estadística inicial. Además, se añadió un límite de 2 turnos."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Corona de Lolita's Drag Race",
+      "imagenes": [
+        "Cartas/Escenas/Corona.jpeg"
+      ],
+      "tags": "escena ldr"
+    },
+    {
+      "nombre": "Cuentos de TheShade Discord",
+      "imagenes": [
+        "Cartas/Escenas/ShadeCuentos.jpg"
+      ],
+      "tags": "escena discord"
+    },
+    {
+      "nombre": "Cuidador de Animales",
+      "imagenes": [
+        "Cartas/Escenas/MCuidador.jpg"
+      ],
+      "tags": "escena mascota"
+    },
+    {
+      "nombre": "Éxito Mundial YTB",
+      "imagenes": [
+        "Cartas/Escenas/YTExito.jpg"
+      ],
+      "tags": "escena youtubible"
+    },
+    {
+      "nombre": "Fanfic BoyLove 🩷",
+      "imagenes": [
+        "Cartas/Escenas/BFanfic.jpg"
+      ],
+      "tags": "escena boylove"
+    },
+    {
+      "nombre": "GAGA THE MUSICAL",
+      "imagenes": [
+        "Cartas/Escenas/LDRGaga.jpg"
+      ],
+      "tags": "escena ldr",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "08/05/2026",
+          "nota": "GAGA THE MUSICAL ofrecía un cambio de reto demasiado específico, por lo que ahora se enfoca en generar presión sostenida sobre los stats rivales, especialmente dentro de estrategias LDR."
+        }
+      ]
+    },
+    {
+      "nombre": "Giratiempos Hogwarts",
+      "imagenes": [
+        "Cartas/Escenas/HGGira.jpg"
+      ],
+      "tags": "escena hogwarts"
+    },
+    {
+      "nombre": "GirlGroups LDR",
+      "imagenes": [
+        "Cartas/Escenas/LDRGG.jpg"
+      ],
+      "tags": "escena ldr"
+    },
+    {
+      "nombre": "Haus of Di Rossi",
+      "imagenes": [
+        "Cartas/Escenas/RossiHaus.jpg"
+      ],
+      "tags": "escena dirossi"
+    },
+    {
       "nombre": "Haus of Vanth",
       "imagenes": [
         "Cartas/Escenas/NVHaus.jpg"
@@ -2388,18 +2644,101 @@
           "tipo": "nerf",
           "fecha": "05/05/2026",
           "nota": "Haus of Vanth se convirtió en una <i>staple</i> en mazos con estrategias alrededor del 0, alejándose de su propósito original dentro del arquetipo Vanth. Para corregir esto, ahora se requiere llevar al menos dos Reinas Vanth para poder activarse."
+        },
+        {
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Para evitar que el arquetipo Vanth siga utilizándose como motor genérico, ahora Haus of Vanth requiere tener al menos 3 Reinas Vanth en el mazo. Con este ajuste, se busca reforzar aún más la identidad del arquetipo y fomentar un uso más puro del mismo."
         }
       ],
       "notas": [
-        "Ruling: si ambas jugadoras empatan con 0 en el reto de la ronda, pueden declarar doble victoria."
+        ""
       ]
     },
     {
-      "nombre": "PURO BOTTOM",
+      "nombre": "HERMANAS Midnight",
       "imagenes": [
-        "Cartas/Escenas/Puro.jpeg"
+        "Cartas/Escenas/MHermanas.jpg"
       ],
-      "tags": "escena tnd"
+      "tags": "escena midnight",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "06/05/2026",
+          "nota": "Su capacidad de reutilizar Gatadas Midnight cada turno otorgaba demasiada consistencia a las estrategias Midnight puras, por lo que ahora cuenta con un límite de dos turnos, a elección, para fomentar un uso más estratégico."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jardín Di Rossi",
+      "imagenes": [
+        "Cartas/Escenas/RossiJardin.jpg"
+      ],
+      "tags": "escena dirossi"
+    },
+    {
+      "nombre": "JUICIO DE GARNET SPARKLE",
+      "imagenes": [
+        "Cartas/Escenas/SJuicio.jpg"
+      ],
+      "tags": "escena sparkle"
+    },
+    {
+      "nombre": "Jurado de TQMix",
+      "imagenes": [
+        "Cartas/Escenas/MixJurado.jpg"
+      ],
+      "tags": "escena tqmix"
+    },
+    {
+      "nombre": "Lenycia En Discord",
+      "imagenes": [
+        "Cartas/Escenas/ShadeLenycia.jpg"
+      ],
+      "tags": "escena discord"
+    },
+    {
+      "nombre": "Looksync de Dragart",
+      "imagenes": [
+        "Cartas/Escenas/Looksync.jpeg"
+      ],
+      "tags": "escena dragart",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Maniqui Vanth",
+      "imagenes": [
+        "Cartas/Escenas/MV.jpeg"
+      ],
+      "tags": "escena vanth"
+    },
+    {
+      "nombre": "MECHAMAkai Destrozapanochas",
+      "imagenes": [
+        "Cartas/Escenas/HkaiMecha.jpg"
+      ],
+      "tags": "escena"
+    },
+    {
+      "nombre": "Midnight Review",
+      "imagenes": [
+        "Cartas/Escenas/NMR.jpg"
+      ],
+      "tags": "escena midnight",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "13/05/2026",
+          "nota": "Debido a lo situacional que resultaba su antiguo efecto, especialmente por la baja cantidad de Reinas Promo con peso dentro del metajuego, Midnight Review recibe una interacción más directa y consistente. Ahora, si la Reina rival es Promo, recibe -3 en la estadística del reto."
+        }
+      ]
     },
     {
       "nombre": "Monokuma",
@@ -2412,9 +2751,152 @@
         {
           "tipo": "buff",
           "fecha": "24/05/2026",
-          "nota": "Ahora se puede decidir qué estadística aumentarse."
+          "nota": "Ahora se puede decidir qué estadísticas aumentarse."
         }
       ]
+    },
+    {
+      "nombre": "Noche SLASHER",
+      "imagenes": [
+        "Cartas/Escenas/NSLNoche.jpg"
+      ],
+      "tags": "escena slasher",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Noche SLASHER podía destrozar por completo el reto Mezclado al reducir dos estadísticas rivales a 0, forzando además al oponente a jugar prácticamente sobre una sola estadística. Por ello, ahora solo reduce una estadística a 0 y disminuye otra en -1 punto."
+        }
+      ]
+    },
+    {
+      "nombre": "Pastel Biz4rre",
+      "imagenes": [
+        "Cartas/Escenas/BPastel.jpg"
+      ],
+      "tags": "escena biz4rre"
+    },
+    {
+      "nombre": "Persecución",
+      "imagenes": [
+        "Cartas/Escenas/NNPersecusion.jpg"
+      ],
+      "tags": "escena vanth",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "19/05/2026",
+          "nota": "Texto reformulado para evitar confusiones."
+        },
+        {
+          "tipo": "buff",
+          "fecha": "24/05/2026",
+          "nota": "Se añadió un efecto para negar Escenas con activación permanente durante todo el juego, aunque su duración se limita a la ronda actual."
+        }
+      ]
+    },
+    {
+      "nombre": "Pride PIXEL 🌈",
+      "imagenes": [
+        "Cartas/Escenas/PridePixel.jpg"
+      ],
+      "tags": "escena pride"
+    },
+    {
+      "nombre": "Público Flop",
+      "imagenes": [
+        "Cartas/Escenas/Flop.jpeg"
+      ],
+      "tags": "escena ldr"
+    },
+    {
+      "nombre": "Puntos de Sueño ASI",
+      "imagenes": [
+        "Cartas/Escenas/NASISueño.jpg"
+      ],
+      "tags": "escena asi",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "15/05/2026",
+          "nota": "Eliminado el efecto de intercambiar un stat con la rival. Ahora la Opción 3) baja -2 a una estadística rival. El cambio de reto pasa a la Opción 5)."
+        }
+      ]
+    },
+    {
+      "nombre": "PURO BOTTOM",
+      "imagenes": [
+        "Cartas/Escenas/Puro.jpeg"
+      ],
+      "tags": "escena tnd"
+    },
+    {
+      "nombre": "Quiteo de Santanas",
+      "imagenes": [
+        "Cartas/Escenas/NNNQuiteo.jpg"
+      ],
+      "tags": "escenas santanas",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "06/05/2026",
+          "nota": "Ahora permite subirse 1 punto en una estadística a la Reina que hace el intercambio."
+        },
+        {
+          "tipo": "nerf",
+          "fecha": "15/05/2026",
+          "nota": "Se removió el aumentar 1 punto de estadística a las Reinas que caen con Quiteo de Santanas como balance de poder por el nuevo soporte Santanas."
+        },
+        {
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Sin negadores de Escena presentes en el meta, Quiteo de Santanas podría volverse una carta demasiado opresiva, llegando a eliminar por completo la condición de victoria de algunos mazos. Por ello, se ha establecido un límite activable de 3 rondas, obligando a los jugadores a administrar su uso de forma más estratégica."
+        }
+      ]
+    },
+    {
+      "nombre": "Remix TQM",
+      "imagenes": [
+        "Cartas/Escenas/MixRemix.jpg"
+      ],
+      "tags": "escena tqmix",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "08/05/2026",
+          "nota": "Remix TQM ahora aprovecha mejor el mazo TQMix al permitir adaptar el reto a la categoría más favorable para tu Reina y alterar los stats rivales, dándole un uso más flexible y dinámico."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "The Next Diva",
+      "imagenes": [
+        "Cartas/Escenas/NTND.jpg"
+      ],
+      "tags": "escena tnd",
+      "balance": "buff",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "12/06/2026",
+          "nota": "Ahora sube +2 en Comedia si se controla una Reina TND."
+        }
+      ]
+    },
+    {
+      "nombre": "TIRAS SPLIT?!?",
+      "imagenes": [
+        "Cartas/Escenas/Tiras.jpeg"
+      ],
+      "tags": "escena"
     },
     {
       "nombre": "TKD",
@@ -2436,163 +2918,8 @@
         }
       ],
       "notas": [
-        "Ruling: no cambia el reto."
+        ""
       ]
-    },
-    {
-      "nombre": "TIRAS SPLIT?!?",
-      "imagenes": [
-        "Cartas/Escenas/Tiras.jpeg"
-      ],
-      "tags": "escena"
-    },
-    {
-      "nombre": "Y EL DANGAN?",
-      "imagenes": [
-        "Cartas/Escenas/Y.jpeg"
-      ],
-      "tags": "escena dangan"
-    },
-    {
-      "nombre": "Midnight Review",
-      "imagenes": [
-        "Cartas/Escenas/NMR.jpg"
-      ],
-      "tags": "escena midnight",
-      "balance": "ajuste",
-      "historial": [
-        {
-          "tipo": "ajuste",
-          "fecha": "13/05/2026",
-          "nota": "Debido a lo situacional que resultaba su antiguo efecto, especialmente por la baja cantidad de Reinas Promo con peso dentro del metajuego, Midnight Review recibe una interacción más directa y consistente. Ahora, si la Reina rival es Promo, recibe -3 en la estadística del reto."
-        }
-      ]
-    },
-    {
-      "nombre": "Asesino de la semana",
-      "imagenes": [
-        "Cartas/Escenas/Ase.jpeg"
-      ],
-      "tags": "escena halloqueens"
-    },
-    {
-      "nombre": "Maniqui Vanth",
-      "imagenes": [
-        "Cartas/Escenas/MV.jpeg"
-      ],
-      "tags": "escena vanth"
-    },
-    {
-      "nombre": "The Next Diva",
-      "imagenes": [
-        "Cartas/Escenas/NTND.jpg"
-      ],
-      "tags": "escena tnd",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "12/06/2026",
-          "nota": "Ahora sube +2 en Comedia si se controla una Reina TND."
-        }
-      ]
-    },
-    {
-      "nombre": "Looksync de Dragart",
-      "imagenes": [
-        "Cartas/Escenas/Looksync.jpeg"
-      ],
-      "tags": "escena dragart",
-      "notas": [
-        "Ruling: La ronda actual también cuenta como ronda pasada."
-      ]
-    },
-    {
-      "nombre": "Coro Cartoon",
-      "imagenes": [
-        "Cartas/Escenas/Coro.jpeg"
-      ],
-      "tags": "escena cartoon",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "23/04/2026",
-          "nota": "Se cambió el efecto: antes daba +1 a todas las estadísticas; ahora solo aplica a una estadística inicial. Además, se añadió un límite de 2 turnos."
-        }
-      ],
-      "notas": [
-        "Ruling: la estadística se tiene que declarar durante la ronda. La jugadora puede decidir cuáles serán las dos rondas en que se usará el efecto."
-      ]
-    },
-    {
-      "nombre": "Público Flop",
-      "imagenes": [
-        "Cartas/Escenas/Flop.jpeg"
-      ],
-      "tags": "escena ldr"
-    },
-    {
-      "nombre": "Jurado de TQMix",
-      "imagenes": [
-        "Cartas/Escenas/MixJurado.jpg"
-      ],
-      "tags": "escena tqmix"
-    },
-    {
-      "nombre": "HERMANAS Midnight",
-      "imagenes": [
-        "Cartas/Escenas/MHermanas.jpg"
-      ],
-      "tags": "escena midnight",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "06/05/2026",
-          "nota": "Su capacidad de reutilizar Gatadas Midnight cada turno otorgaba demasiada consistencia a las estrategias Midnight puras, por lo que ahora cuenta con un límite de dos turnos, a elección, para fomentar un uso más estratégico."
-        }
-      ],
-      "notas": [
-        "Ruling: las siguientes gatadas cuentan como cartas Midnight: Ajustes de Costurera, BOOT, Clownkid, Lágrimas de la negrita, Midnight Massacre, Montoneras, Peor Juez KUINAZA, Perdón de Alerito, Sabotaje, Scoot!, Shoot!, Vestido de la Discordia.La Escena se activa inmediatamente al ser usada; se tira dado para activar el efecto de reúso de Gatadas Midnight. Los turnos de reúso son a elección."
-      ]
-    },
-    {
-      "nombre": "Amigo Fiel",
-      "imagenes": [
-        "Cartas/Escenas/AF.jpeg"
-      ],
-      "tags": "escena mascota",
-      "notas": [
-        "Ruling: todas las mascotas derrotadas cuentan para la suma de estadísticas, no solo la inmediatamente anterior."
-      ]
-    },
-    {
-      "nombre": "Quiteo de Santanas",
-      "imagenes": [
-        "Cartas/Escenas/NNNQuiteo.jpg"
-      ],
-      "tags": "escenas santanas",
-      "balance": "buff",
-      "historial": [
-        {
-          "tipo": "buff",
-          "fecha": "06/05/2026",
-          "nota": "Ahora permite subirse 1 punto en una estadística a la Reina que hace el intercambio."
-        },
-        {
-          "tipo": "nerf",
-          "fecha": "15/05/2026",
-          "nota": "Se removió el aumentar 1 punto de estadística a las Reinas que caen con Quiteo como balance de poder por el nuevo soporte Santanas."
-        }
-      ]
-    },
-    {
-      "nombre": "V Production",
-      "imagenes": [
-        "Cartas/Escenas/VProduction.jpg"
-      ],
-      "tags": "escena vproduction"
     },
     {
       "nombre": "Última Cena de Josualia",
@@ -2602,57 +2929,11 @@
       "tags": "escena josualia"
     },
     {
-      "nombre": "BALL DE DRAGART",
+      "nombre": "V Production",
       "imagenes": [
-        "Cartas/Escenas/DBall.jpg"
+        "Cartas/Escenas/VProduction.jpg"
       ],
-      "tags": "escena dragart",
-      "notas": [
-        "Ruling: esta carta solo podrá usarse si un juez verifica previamente que el mazo cumple la condición de activación. El dado a lanzar dependerá del número de Gatadas en existencia."
-      ]
-    },
-    {
-      "nombre": "JUICIO DE GARNET SPARKLE",
-      "imagenes": [
-        "Cartas/Escenas/SJuicio.jpg"
-      ],
-      "tags": "escena sparkle"
-    },
-    {
-      "nombre": "Campo Sparkle",
-      "imagenes": [
-        "Cartas/Escenas/NSCampo.jpg"
-      ],
-      "tags": "escena sparkle",
-      "balance": "nerf",
-      "historial": [
-        {
-          "tipo": "nerf",
-          "fecha": "05/05/2026",
-          "nota": "Ahora reduce 1 punto de estadística menos; un ligero balance de poder al mazo."
-        }
-      ]
-    },
-    {
-      "nombre": "Fanfic BoyLove 🩷",
-      "imagenes": [
-        "Cartas/Escenas/BFanfic.jpg"
-      ],
-      "tags": "escena boylove"
-    },
-    {
-      "nombre": "CONFESIÓN BOYLOVE 🩷",
-      "imagenes": [
-        "Cartas/Escenas/BConfesion.jpg"
-      ],
-      "tags": "escena boylove"
-    },
-    {
-      "nombre": "Giratiempos Hogwarts",
-      "imagenes": [
-        "Cartas/Escenas/HGGira.jpg"
-      ],
-      "tags": "escena hogwarts"
+      "tags": "escena vproduction"
     },
     {
       "nombre": "Vestíbulo de Hogwarts",
@@ -2670,110 +2951,836 @@
       ]
     },
     {
-      "nombre": "Canto de Cartoon",
+      "nombre": "Y EL DANGAN?",
       "imagenes": [
-        "Cartas/Escenas/NCCanto.jpg"
+        "Cartas/Escenas/Y.jpeg"
       ],
-      "tags": "escena cartoon",
+      "tags": "escena dangan"
+    }
+  ],
+  "armas": [
+    {
+      "nombre": "(1) Adam Possingrew Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGAdam.jpg"
+      ],
+      "tags": "armas chico hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(1) Brócolis Saludables COMIDA",
+      "imagenes": [
+        "Cartas/Armas/PaCC.jpeg"
+      ],
+      "tags": "armas comida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(1) COCA COLA BEBIDA",
+      "imagenes": [
+        "Cartas/Armas/CCB.jpeg"
+      ],
+      "tags": "armas bebida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(1) Flawwzz Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGFlaw.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(1) Vestido Mugler",
+      "imagenes": [
+        "Cartas/Armas/AVestido.jpg"
+      ],
+      "tags": "armas vestido",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(2) Archie Jones Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGArchie.jpg"
+      ],
+      "tags": "armas chico hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(2) Camisa AVIESC",
+      "imagenes": [
+        "Cartas/Armas/ACamisa.jpg"
+      ],
+      "tags": "armas vestido",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(2) Juguito de naranja BEBIDA",
+      "imagenes": [
+        "Cartas/Armas/CFB.jpeg"
+      ],
+      "tags": "armas bebida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(2) Pasta de Camarones COMIDA",
+      "imagenes": [
+        "Cartas/Armas/PaCC.jpeg"
+      ],
+      "tags": "armas comida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(2) Sunsun Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGSunsun.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(3) CERVEZA FRÍA BEBIDA",
+      "imagenes": [
+        "Cartas/Armas/CFB.jpeg"
+      ],
+      "tags": "armas bebida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(3) Holiday Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGHoliday.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(3) Klarion Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGKlarion.jpg"
+      ],
+      "tags": "armas chico hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(3) PAPAS FRITAS COMIDA",
+      "imagenes": [
+        "Cartas/Armas/PFC.jpeg"
+      ],
+      "tags": "armas comida",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(4) Andrew Ogden Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGAndrew.jpg"
+      ],
+      "tags": "armas chico hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(4) Perro de Finnbar Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/NNHGPerro.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "13/05/2026",
+          "nota": "Ahora recibe LLEGÓ LA PERRERA como compensación del baneo de Mordida de Perro"
+        },
+        {
+          "tipo": "ajuste",
+          "fecha": "12/06/2026",
+          "nota": "Se ha reworkeado su efecto como compensación de la deshabilitación de LLEGÓ LA PERRERA: ahora se convierte en una Gatada que puede anular la última Gatada rival."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(5) Sunflower Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGSunflower.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(5) Tintin Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGTintin.jpg"
+      ],
+      "tags": "armas chico hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(6) Herkus",
+      "imagenes": [
+        "Cartas/Armas/HGHerkus.jpg"
+      ],
+      "tags": "armas hogwarts chico",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(6) Tsareena Cowhite Hogwarts",
+      "imagenes": [
+        "Cartas/Armas/HGTsareena.jpg"
+      ],
+      "tags": "armas hogwarts drama",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(H) Estrella de Sparkles",
+      "imagenes": [
+        "Cartas/Armas/SEstrella.jpg"
+      ],
+      "tags": "armas token heroe sparkle",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "(V) BOMBA DE SPARKLE",
+      "imagenes": [
+        "Cartas/Armas/NSBomba.jpg"
+      ],
+      "tags": "armas token villana sparkle",
+      "balance": "ajuste",
+      "historial": [
+        {
+          "tipo": "ajuste",
+          "fecha": "06/05/2026",
+          "nota": "Se reformuló el texto para evitar confusiones."
+        }
+      ],
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Amenaza A la Autora 💀",
+      "imagenes": [
+        "Cartas/Armas/NBLAmenaza.jpg"
+      ],
+      "tags": "armas badending boylove",
       "balance": "buff",
       "historial": [
         {
           "tipo": "buff",
-          "fecha": "19/05/2026",
-          "nota": "Ahora las Reinas Cartoon ganan +2 en un stat al anularse su efecto, además de tener la posibilidad de obtener un +1 extra mediante una tirada aleatoria."
+          "fecha": "08/05/2026",
+          "nota": "Amenaza a la Autora tenía un impacto demasiado momentáneo contra estrategias centradas en buffs, por lo que ahora mantiene a la Reina rival en sus stats base durante toda la ronda para reforzar su identidad de control."
         }
+      ],
+      "notas": [
+        ""
       ]
     },
     {
-      "nombre": "MECHAMAkai Destrozapanochas",
+      "nombre": "Apocalipsis VNK",
       "imagenes": [
-        "Cartas/Escenas/HkaiMecha.jpg"
+        "Cartas/Armas/HkaiApo.jpg"
       ],
-      "tags": "escena"
+      "tags": "armas vnk",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Pastel Biz4rre",
+      "nombre": "ARCA",
       "imagenes": [
-        "Cartas/Escenas/BPastel.jpg"
+        "Cartas/Armas/HkaiArca.jpg"
       ],
-      "tags": "escena biz4rre"
+      "tags": "armas reina vnk",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "GirlGroups LDR",
+      "nombre": "Fanática Loca BoyLove 💀",
       "imagenes": [
-        "Cartas/Escenas/LDRGG.jpg"
+        "Cartas/Armas/BFan.jpg"
       ],
-      "tags": "escena ldr"
+      "tags": "armas badending boylove reina",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Noche SLASHER",
+      "nombre": "Gólem de Piedra",
       "imagenes": [
-        "Cartas/Escenas/NSLNoche.jpg"
+        "Cartas/Armas/NPGolem.jpg"
       ],
-      "tags": "escena slasher"
+      "tags": "reina armas piedra golem",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "nerf",
+          "fecha": "24/05/2026",
+          "nota": "Ahora baja -3 puntos de estadística al caer."
+        }
+      ],
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Puntos de Sueño ASI",
+      "nombre": "iTown La Muerte YTB",
       "imagenes": [
-        "Cartas/Escenas/NASISueño.jpg"
+        "Cartas/Armas/YTITown.jpg"
       ],
-      "tags": "escena asi"
+      "tags": "armas youtubible lamuerte"
     },
     {
-      "nombre": "Cuidador de Animales",
+      "nombre": "Medusa de Piedra",
       "imagenes": [
-        "Cartas/Escenas/MCuidador.jpg"
+        "Cartas/Armas/PMedusa.jpg"
       ],
-      "tags": "escena mascota"
+      "tags": "reina armas piedra medusa",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Castillo de Piedra",
+      "nombre": "Pasión BoyLove",
       "imagenes": [
-        "Cartas/Escenas/PCastillo.jpg"
+        "Cartas/Armas/BPasion.jpg"
       ],
-      "tags": "escena piedra"
+      "tags": "armas goodending boylove",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Pride PIXEL 🌈",
+      "nombre": "Pony Pride 🌈",
       "imagenes": [
-        "Cartas/Escenas/PridePixel.jpg"
+        "Cartas/Armas/PridePony.jpg"
       ],
-      "tags": "escena pride"
+      "tags": "reina pride armas pony"
     },
     {
-      "nombre": "Jardín Di Rossi",
+      "nombre": "Príncipe BoyLove 💛",
       "imagenes": [
-        "Cartas/Escenas/RossiJardin.jpg"
+        "Cartas/Armas/BPrincipe.jpg"
       ],
-      "tags": "escena dirossi"
+      "tags": "armas goodending boylove reina",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Haus of Di Rossi",
+      "nombre": "RETOOOO de Gorilola",
       "imagenes": [
-        "Cartas/Escenas/RossiHaus.jpg"
+        "Cartas/Armas/NNLDRGori.jpg"
       ],
-      "tags": "escena dirossi"
+      "tags": "armas gorilola ldr",
+      "balance": "nerf",
+      "historial": [
+        {
+          "tipo": "buff",
+          "fecha": "19/05/2026",
+          "nota": "Se ajusta el efecto por su inconsistencia. Ahora el buff de RETOOOO de Gorilola se activa al acertar números pares en una tirada de 5d10, haciendo su aplicación más fiable en juego."
+        },
+        {
+          "tipo": "nerf",
+          "fecha": "23/05/2026",
+          "nota": "Se cambia su tirada a 3d10 para que la cantidad de números pares que pueda acertar no sea tan excesiva."
+        }
+      ],
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Cuentos de TheShade Discord",
+      "nombre": "Tenedor y Cuchara",
       "imagenes": [
-        "Cartas/Escenas/ShadeCuentos.jpg"
+        "Cartas/Armas/TyC.jpeg"
       ],
-      "tags": "escena discord"
+      "tags": "armas",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Lenycia En Discord",
+      "nombre": "TICKET BANEO",
       "imagenes": [
-        "Cartas/Escenas/ShadeLenycia.jpg"
+        "Cartas/Armas/HGTicket.jpg"
       ],
-      "tags": "escena discord"
+      "tags": "armas hogwarts ticket",
+      "notas": [
+        ""
+      ]
+    }
+  ],
+  "conmemorativas": [
+    {
+      "nombre": "CardWards 2026: Carta Baneada Favorita",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW07.jpg",
+        "Cartas/Conmemorativas/CW07G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
     },
     {
-      "nombre": "Éxito Mundial YTB",
+      "nombre": "CardWards 2026: Ganadora de Torneo/Festival Favorita",
       "imagenes": [
-        "Cartas/Escenas/YTExito.jpg"
+        "Cartas/Conmemorativas/CW09.jpg",
+        "Cartas/Conmemorativas/CW09G.jpg"
       ],
-      "tags": "escena youtubible"
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Jugadora Más Combera",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW11.jpg",
+        "Cartas/Conmemorativas/CW11G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Jugadora Más Lenta",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW13.jpg",
+        "Cartas/Conmemorativas/CW13G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Jugadora Más Psicópata",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW10.jpg",
+        "Cartas/Conmemorativas/CW10G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Jugadora Más Reconocida",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW15.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Jugadora Relevación",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW06.jpg",
+        "Cartas/Conmemorativas/CW06G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Mejor Arquetipo Patrocinado/Creado",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW08.jpg",
+        "Cartas/Conmemorativas/CW08G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Mejor Mazo de Dificultad Experto",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW03.jpg",
+        "Cartas/Conmemorativas/CW03G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Mejor Mazo de Dificultad Fácil",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW01.jpg",
+        "Cartas/Conmemorativas/CW01G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Mejor Mazo de Dificultad Media",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW02.jpg",
+        "Cartas/Conmemorativas/CW02G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Mejor Torneo/Festival",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW14.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Nula del Grupo Más Icónica",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW05.jpg",
+        "Cartas/Conmemorativas/CW05G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: Primera Ronda Eliminada Más Icónica",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW04.jpg",
+        "Cartas/Conmemorativas/CW04G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "CardWards 2026: TOP 2 Más Emblemático",
+      "imagenes": [
+        "Cartas/Conmemorativas/CW12.jpg",
+        "Cartas/Conmemorativas/CW12G.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "FRAUDE ELECTORAL",
+      "imagenes": [
+        "Cartas/Conmemorativas/Fraude.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "PRIDE ELECTIONS!",
+      "imagenes": [
+        "Cartas/Conmemorativas/Pride.jpg"
+      ],
+      "tags": "conmemorativas",
+      "notas": [
+        ""
+      ]
+    }
+  ],
+  "poderes": [
+    {
+      "nombre": "Arcángel Gabriel YTB (Windy) [Castigo]",
+      "imagenes": [
+        "Cartas/Poderes/YTCastigo.jpg"
+      ],
+      "tags": "poderes castigo youtubible",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Funa YTB",
+      "imagenes": [
+        "Cartas/Poderes/YTFuna.jpg"
+      ],
+      "tags": "poderes funa youtubible",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Virus Biz4rre",
+      "imagenes": [
+        "Cartas/Armas/BVirus.jpg"
+      ],
+      "tags": "poderes virus biz4rre",
+      "notas": [
+        ""
+      ]
+    }
+  ],
+  "evoluciones": [
+    {
+      "nombre": "Alila Instrumental Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordAlilaInst.jpg"
+      ],
+      "tags": "reina discord evoluciones tqmix",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Alila La Monja Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordAlilaMonja.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Alila Pastel Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordAlilaPastel.jpg"
+      ],
+      "tags": "reina discord evoluciones biz4rre",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bluthyd Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordBluthydDragart.jpg"
+      ],
+      "tags": "reina discord evoluciones dragart",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bluthyd Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordBluthydTKD.jpg"
+      ],
+      "tags": "reina discord evoluciones tkd",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Bluthyd Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordBluthyd.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Garnet Estatua Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordGarnetDragart.jpg"
+      ],
+      "tags": "reina discord evoluciones dragart",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Garnet La Furra Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordGarnetFurra.jpg"
+      ],
+      "tags": "reina discord evoluciones tnd",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Garnet Transfóbica Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordGarnetHallo.jpg"
+      ],
+      "tags": "reina discord evoluciones halloqueens",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jauregui Asesina Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordJaureguiAsesina.jpg"
+      ],
+      "tags": "reina discord evoluciones slasher",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jauregui La Maga Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordJaureguiMaga.jpg"
+      ],
+      "tags": "reina discord evoluciones hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jauregui Reina Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordJaureguiReina.jpg"
+      ],
+      "tags": "reina discord evoluciones ldr",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jhas Colores Cálidos Discord",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordJhasCalidos.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Jhas Colores Fríos Discord",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordJhasFrios.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Lenya La Guerrera",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordLenya.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Lyon La bruja Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordLyonBruja.jpg"
+      ],
+      "tags": "reina discord evoluciones hogwarts",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Lyon Lexus Madreada Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordLyonVanth.jpg"
+      ],
+      "tags": "reina discord evoluciones vanth",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Lyon Lexus Mecha Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordLyonMecha.jpg"
+      ],
+      "tags": "reina discord evoluciones",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Tania Cuerva Discord (Actuación)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordTaniaCuerva.jpg"
+      ],
+      "tags": "reina discord evoluciones midnight",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Tania Demonía Discord (Performance)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordTaniaTKD.jpg"
+      ],
+      "tags": "reina discord evoluciones tkd",
+      "notas": [
+        ""
+      ]
+    },
+    {
+      "nombre": "Tania Instrumentalista Discord (Comedia)",
+      "imagenes": [
+        "Cartas/Evoluciones/DiscordTaniaTQM.jpg"
+      ],
+      "tags": "reina discord evoluciones tqmix",
+      "notas": [
+        ""
+      ]
     }
   ]
 }
